@@ -1735,7 +1735,7 @@ elif menu == "MedKraf":
                 "hobbi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
                 "kesan": "Kakak orangnya ramah",
-                "pesan": "Jangan kebanyakan nanggis yah kak hehe", 
+                "pesan": "Jangan kebanyakan nangis yah kak hehe", 
                 "jabatan" : "Anggota Divisi PDD", # 19
             },
 
