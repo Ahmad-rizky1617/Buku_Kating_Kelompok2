@@ -503,7 +503,7 @@ elif menu == "Psda":
                 "kesan": "Bang Kemas sangat pintar", 
                 "Pesan" : "Selalu optimis dalam mengejar impian bang",
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
-            }
+            },
             {
                 "Nama": "Presilia",
                 "nim": "122450081",
@@ -515,7 +515,7 @@ elif menu == "Psda":
                 "kesan": "Kak Presilia sangat ceria dan cantik", 
                 "Pesan" : "Sehat selalu ya kak",
                 "jabatan" : "Bendahara Divisi Manajemen Minat dan Bakat", # 1
-            }
+            },
             {
                 "Nama": "Rafa Aqilla Jungjunan",
                 "nim": "122450142",
@@ -527,7 +527,7 @@ elif menu == "Psda":
                 "kesan": "Kak Rafa humble", 
                 "Pesan" : "Jangan lupa apresiasi diri sendiri kak",
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
-            }
+            },
             {
                 "Nama": "Sahid Maulana",
                 "nim": "122450109",
@@ -539,7 +539,7 @@ elif menu == "Psda":
                 "kesan": "Bang Sahid keren sekali", 
                 "Pesan" : "Semangat menjalani semester 5 bang",
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
-            }
+            },
             {
                 "Nama": "Vanessa Olivia Rose",
                 "nim": "121450108",
@@ -551,7 +551,7 @@ elif menu == "Psda":
                 "kesan": "Kak Vanessa keren, karismatik jugaa", 
                 "Pesan" : "Selalu bahagia ya kak",
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
-            }
+            },
             {
                 "Nama": "Vanessa Olivia Rose",
                 "nim": "121450108",
@@ -563,7 +563,7 @@ elif menu == "Psda":
                 "kesan": "Kak Vanessa keren, karismatik jugaa", 
                 "Pesan" : "Selalu bahagia ya kak",
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
-            }
+            },
             {
                 "Nama": "Allya Nurul Islami Pasha",
                 "nim": "122450033",
@@ -575,7 +575,7 @@ elif menu == "Psda":
                 "kesan": "Kakaknya tegas dan humble", 
                 "Pesan" : "Sehat selalu kak Allya",
                 "jabatan" : " Staff Divisi Kaderisasi", # 1
-            }
+            },
             {
                 "Nama": "Eksanty Febriana Sukma Islamiaty",
                 "nim": "122450001",
@@ -587,7 +587,7 @@ elif menu == "Psda":
                 "kesan": "Kak Eksanty cantik, humble.", 
                 "Pesan" : "Selalu bahagia kak, teruslah mengejar impian kakak",
                 "jabatan" : " Staff Divisi Kaderisasi", # 1
-            }
+            },
             {
                 "Nama": "M. Deriansyah Okutra",
                 "nim": "122450051",
@@ -599,7 +599,7 @@ elif menu == "Psda":
                 "kesan": "Abangnya humoris dan juga tegas sekali dibeberapa kondisi", 
                 "Pesan" : "Semangat bang mengejar tujuan abang",
                 "jabatan" : " Staff Divisi Kaderisasi", # 1
-            }
+            },
             {
                 "Nama": "Oktavia Nurwendah Puspita Sari",
                 "nim": "122450041 ",
@@ -611,7 +611,7 @@ elif menu == "Psda":
                 "kesan": "Kakaknya sangat ceria", 
                 "Pesan" : "Semangat kak kuliahnya, jangan patah smangat",
                 "jabatan" : " Staff Divisi Kaderisasi", # 1
-            }
+            },
             {
                 "Nama": "Gede Moena",
                 "nim": "121450014",
@@ -623,7 +623,7 @@ elif menu == "Psda":
                 "kesan": "  Abangnya keren sekali", 
                 "Pesan" : "Semangat bang dengan tugas kuliahnya",
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
-            }
+            },
             {
                 "Nama": "Jaclin Alcavella",
                 "nim": "122450015",
@@ -635,7 +635,7 @@ elif menu == "Psda":
                 "kesan": "Kak Jaclin sangat baik, ramah", 
                 "Pesan" : "Semangat kak kuliahnya, terus kejar impian",
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
-            }
+            },
             {
                 "Nama": "Rafly Prabu Darmawan",
                 "nim": "122450140",
