@@ -471,7 +471,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": " Nisrina Nur Afifah",
-                "nim": "122450033",
+                "nim": "122450052",
                 "umur": "19",
                 "asal": "Bekasi",
                 "alamat": "Sukarame",
@@ -591,7 +591,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "M. Deriansyah Okutra",
-                "nim": "122450051",
+                "nim": "1224500101",
                 "umur": "19",
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",
