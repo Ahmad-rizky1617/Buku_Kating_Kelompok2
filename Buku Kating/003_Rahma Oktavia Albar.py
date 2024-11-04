@@ -1344,7 +1344,7 @@ elif menu == "Departemen SSD":
 
     def SSD():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=", #bang andrian
+            "https://drive.google.com/uc?export=view&id=1a_fc261uHsqyZwx-Xp5kB-hlhdIaT8P0", #bang andrian
             "https://drive.google.com/uc?export=view&id=", #kak adisty
             "https://drive.google.com/uc?export=view&id=", #kak nabila
             "https://drive.google.com/uc?export=view&id=", #bang danang
@@ -1365,8 +1365,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Bel",
                 "hobbi": "Mencari Uang",
                 "sosmed": "@andriangaol",
-                "kesan": "Keren banget bang, calon pengusaha ini",
-                "pesan": "Semangat terus bang kuliah sama usahanya",
+                "kesan": "Bang Andrian sangat inspiratif, bisa tenang dan tegas diberbagai kondisi",
+                "pesan": "Jangan terlalu keras pada diri sendiri dan jaga kesehatan bang",
                 "jabatan" : "Kepala Departemen SSD", #1
             },
             {
