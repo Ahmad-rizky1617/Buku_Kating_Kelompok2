@@ -177,7 +177,7 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Nadilla Andhara Putri",
-                "nim": "1214500030",
+                "nim": "121450003",
                 "umur": "21",
                 "asal": "Metro",
                 "alamat": "Kota Baru",
@@ -253,7 +253,7 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Anisa Dini Amalia",
-                "nim": "121450021",
+                "nim": "121450081",
                 "umur": "20",
                 "asal": "Tangerang",
                 "alamat": "Jati Agung",
@@ -459,7 +459,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kemiling",
                 "hobbi": "Bernafas",
                 "sosmed": "@celisabethh_",
-                "kesan": "Asik banget kakaknya, cara ngomongnya juga lucu",
+                "kesan": "Asik dan cantik kakaknya, cara ngomongnya juga lucu",
                 "pesan": "Semangat terus kak!sehat selalu", 
                 "jabatan" : "Sekretaris Departemen PSDA", # 1
             },
@@ -477,7 +477,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": " Nisrina Nur Afifah",
-                "nim": "122450033",
+                "nim": "122450052",
                 "umur": "19",
                 "asal": "Bekasi",
                 "alamat": "Sukarame",
@@ -543,7 +543,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Belwis",
                 "hobbi": "Baca Webtoon",
                 "sosmed": "@rafaaqilla",
-                "kesan": "Baik, ramah, dan keren kakaknya",
+                "kesan": "cantik, ramah, dan keren kakaknya",
                 "pesan": "semoga harapannya terkabul semua kak", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
@@ -567,7 +567,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Perum Korpri",
                 "hobbi": "Belajar",
                 "sosmed": "@roselivnes__",
-                "kesan": "kakaknya asik banget",
+                "kesan": "kakaknya asik banget, sylenya boyish ",
                 "pesan": "sehat terus kak, jangan kelelahan", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
@@ -579,7 +579,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gg. Perwira Belwis",
                 "hobbi": "Nongs",
                 "sosmed": "@allyaislami_",
-                "kesan": "Kakaknya tegas dan berwibawa, keren",
+                "kesan": "Kakaknya berwibawa dan kharismatik, keren",
                 "pesan": "Semangat terus kak kuliahnya", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
@@ -591,13 +591,13 @@ elif menu == "Departemen PSDA":
                 "alamat": "Natar",
                 "hobbi": "Nyari sinyal di gedung F",
                 "sosmed": "@eksantyfebriana",
-                "kesan": "Kakaknya baik dan inspiratif sekali",
+                "kesan": "Kakaknya pinter dan inspiratif sekali",
                 "pesan": "Terus memotivasi kami kak, semangat terus", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
              {
                 "nama": "M. Deriansyah Okutra",
-                "nim": "122450051",
+                "nim": "122450101",
                 "umur": "19",
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",
@@ -639,7 +639,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Korpri",
                 "hobbi": " Berenang",
                 "sosmed": "@jaclinaclcv_",
-                "kesan": "Kakaknya pasti sehat banget ya",
+                "kesan": "Kakaknya pasti sehat banget ya, ramah juga",
                 "pesan": "Semoga semakin jago kak renangnya", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
@@ -811,7 +811,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "-",
                 "sosmed": "@dindanababan_",
                 "kesan": "Keren kakaknya dan baik hati",
-                "pesan": "Semangat menjalani hari-hari kak", 
+                "pesan": "Semangat selalu kakak", 
                 "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
             {
