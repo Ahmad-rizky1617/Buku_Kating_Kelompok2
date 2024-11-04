@@ -480,7 +480,7 @@ elif menu == "Psda":
                 "pesan": "Semangat kuliahnya bang, jangan lupa istirahat sejenak", 
                 "jabatan" : "Kepala Divisi Olahraga dan Perlombaan", # 1
             },
-             {
+            {
                 "nama": "Johannes Krisjon Silitonga",
                 "nim": "122450043",
                 "umur": "19",
@@ -511,7 +511,7 @@ elif menu == "Psda":
                 "asal": "Bekasi",
                 "alamat": "Kota Baru",
                 "hobbi": "Dengerin Lomba Sihir",
-                "sosmed": "@presiliamg"
+                "sosmed": "@presiliamg",
                 "kesan": "Kak Presilia sangat ceria dan cantik", 
                 "Pesan" : "Sehat selalu ya kak",
                 "jabatan" : "Bendahara Divisi Manajemen Minat dan Bakat", # 1
@@ -523,7 +523,7 @@ elif menu == "Psda":
                 "asal": "Pekan Baru",
                 "alamat": "Belwis",
                 "hobbi": "Baca Webtoon",
-                "sosmed": "@rafaaqilla"
+                "sosmed": "@rafaaqilla",
                 "kesan": "Kak Rafa humble", 
                 "Pesan" : "Jangan lupa apresiasi diri sendiri kak",
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
@@ -535,7 +535,7 @@ elif menu == "Psda":
                 "asal": "Depok",
                 "alamat": "Airan Raya",
                 "hobbi": "Nonton Jagad review",
-                "sosmed": "@sahid_maulana"
+                "sosmed": "@sahid_maulana",
                 "kesan": "Bang Sahid keren sekali", 
                 "Pesan" : "Semangat menjalani semester 5 bang",
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
@@ -547,7 +547,7 @@ elif menu == "Psda":
                 "asal": "Jakarta",
                 "alamat": "Perum Korpri",
                 "hobbi": "Belajar",
-                "sosmed": "@roselivnes__"
+                "sosmed": "@roselivnes__",
                 "kesan": "Kak Vanessa keren, karismatik jugaa", 
                 "Pesan" : "Selalu bahagia ya kak",
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
@@ -559,7 +559,7 @@ elif menu == "Psda":
                 "asal": "Jakarta",
                 "alamat": "Perum Korpri",
                 "hobbi": "Belajar",
-                "sosmed": "@roselivnes__"
+                "sosmed": "@roselivnes__",
                 "kesan": "Kak Vanessa keren, karismatik jugaa", 
                 "Pesan" : "Selalu bahagia ya kak",
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
@@ -571,7 +571,7 @@ elif menu == "Psda":
                 "asal": "Sumatera Barat",
                 "alamat": "Gg. Perwira Belwis",
                 "hobbi": "Nongs",
-                "sosmed": "@allyaislami_"
+                "sosmed": "@allyaislami_",
                 "kesan": "Kakaknya tegas dan humble", 
                 "Pesan" : "Sehat selalu kak Allya",
                 "jabatan" : " Staff Divisi Kaderisasi", # 1
@@ -583,7 +583,7 @@ elif menu == "Psda":
                 "asal": "Pringsewu",
                 "alamat": "Natar",
                 "hobbi": "Nyari sinyal di gedung F",
-                "sosmed": "@eksantyfebriana"
+                "sosmed": "@eksantyfebriana",
                 "kesan": "Kak Eksanty cantik, humble.", 
                 "Pesan" : "Selalu bahagia kak, teruslah mengejar impian kakak",
                 "jabatan" : " Staff Divisi Kaderisasi", # 1
@@ -595,7 +595,7 @@ elif menu == "Psda":
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",
                 "hobbi": "Nongki - nongki",
-                "sosmed": "@dransyah_"
+                "sosmed": "@dransyah_",
                 "kesan": "Abangnya humoris dan juga tegas sekali dibeberapa kondisi", 
                 "Pesan" : "Semangat bang mengejar tujuan abang",
                 "jabatan" : " Staff Divisi Kaderisasi", # 1
@@ -607,7 +607,7 @@ elif menu == "Psda":
                 "asal": "Lampung Timur",
                 "alamat": "Way Huwi",
                 "hobbi": "Scroll Tiktok",
-                "sosmed": "@oktavianrwnda"
+                "sosmed": "@oktavianrwnda",
                 "kesan": "Kakaknya sangat ceria", 
                 "Pesan" : "Semangat kak kuliahnya, jangan patah smangat",
                 "jabatan" : " Staff Divisi Kaderisasi", # 1
@@ -619,7 +619,7 @@ elif menu == "Psda":
                 "asal": "Bekasi",
                 "alamat": "Korpri Raya",
                 "hobbi": "Belajar, Game, Baca Komik",
-                "sosmed": "@gedemoenaa"
+                "sosmed": "@gedemoenaa",
                 "kesan": "  Abangnya keren sekali", 
                 "Pesan" : "Semangat bang dengan tugas kuliahnya",
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
@@ -631,7 +631,7 @@ elif menu == "Psda":
                 "asal": "Sumatera Selatan",
                 "alamat": "Korpri",
                 "hobbi": "Berenang",
-                "sosmed": "@jaclinaclcv_"
+                "sosmed": "@jaclinaclcv_",
                 "kesan": "Kak Jaclin sangat baik, ramah", 
                 "Pesan" : "Semangat kak kuliahnya, terus kejar impian",
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
@@ -643,7 +643,7 @@ elif menu == "Psda":
                 "asal": "Bangka Belitung",
                 "alamat": "Sukarame",
                 "hobbi": "Main Game",
-                "sosmed": "@raflyy_pd"
+                "sosmed": "@raflyy_pd",
                 "kesan": "Bang Rafly tegas namun juga baik", 
                 "Pesan" : "Sehat selalu bang, jangan patah semangat",
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
