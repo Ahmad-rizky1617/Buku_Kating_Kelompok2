@@ -177,7 +177,7 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Nadilla Andhara Putri",
-                "nim": "1214500030",
+                "nim": "121450003",
                 "umur": "21",
                 "asal": "Metro",
                 "alamat": "Kota Baru",
@@ -253,7 +253,7 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Anisa Dini Amalia",
-                "nim": "121450021",
+                "nim": "121450081",
                 "umur": "20",
                 "asal": "Tangerang",
                 "alamat": "Jati Agung",
@@ -477,7 +477,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": " Nisrina Nur Afifah",
-                "nim": "122450033",
+                "nim": "122450052",
                 "umur": "19",
                 "asal": "Bekasi",
                 "alamat": "Sukarame",
@@ -597,7 +597,7 @@ elif menu == "Departemen PSDA":
             },
              {
                 "nama": "M. Deriansyah Okutra",
-                "nim": "122450051",
+                "nim": "122450101",
                 "umur": "19",
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",
@@ -756,7 +756,7 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
-                "nim": "122450121",
+                "nim": "122450111",
                 "umur": "21",
                 "asal": "Tangerang",
                 "alamat": "Gg Yudhistira",
