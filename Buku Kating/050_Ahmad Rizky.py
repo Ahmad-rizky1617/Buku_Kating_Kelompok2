@@ -369,7 +369,7 @@ elif menu == "Baleg":
 
     baleg()
 
-elif menu == "MedKraf":
+elif menu == "Medkraf":
 
     def medkraf():
         gambar_urls = [
