@@ -20,7 +20,7 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
-            "Medkraf",
+            "Medkraf"
         ],
         icons=[
             "people-fill",
@@ -31,7 +31,7 @@ def streamlit_menu():
             "people-fill",
             "people-fill",
             "people-fill",
-            "people-fill",
+            "people-fill"
         ],
         default_index=0,
         orientation="horizontal",
@@ -369,7 +369,7 @@ elif menu == "Baleg":
 
     baleg()
 
-elif menu == "MedKraf":
+elif menu == "Medkraf":
 
     def medkraf():
         gambar_urls = [
