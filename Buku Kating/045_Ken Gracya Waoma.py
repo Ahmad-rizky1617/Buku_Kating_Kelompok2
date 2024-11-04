@@ -1612,7 +1612,7 @@ elif menu == "Departemen Internal":
                 "jabatan" : "Kepala Divisi Keharmonisasian", # 1
             },
             {
-                "nama": "Renita Siahaan",
+                "nama": "Renta Siahaan",
                 "nim": "122450070",
                 "umur": "21",
                 "asal": "Sumatera Utara",
