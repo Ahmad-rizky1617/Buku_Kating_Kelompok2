@@ -1736,9 +1736,9 @@ elif menu == "MedKraf":
                 "sosmed": "@prskslv",
                 "kesan": "Kakaknya cantik, sangat antusias dengan berbagai hal",
                 "pesan": "Selalu semangat dengan segala impian kakak, jangan mudah menyerah kakak", 
-                "jabatan" : "Anggota Divisi PDD", # 1
+                "jabatan" : "Staff Divisi PDD", # 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     medkraf()
-# Tambahkan menu lainnya sesuai kebutuhan
+
