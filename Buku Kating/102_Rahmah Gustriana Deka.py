@@ -904,19 +904,17 @@ elif menu == "Departemen Eksternal":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1ijGqxmuAeJlXNQAVJx4RBXaIVqJngBk-", #bang yogy
             "https://drive.google.com/uc?export=view&id=1a8-ywVBgDQOSqF8iiL3h5epumByVqt_D", #kak ramadhita
-            "https://drive.google.com/uc?export=view&id=1qxm6FAwQ98zNY2JEN4YjInXk1dByv0jv", #kak nazwa/
-            "https://drive.google.com/uc?export=view&id=1qxm6FAwQ98zNY2JEN4YjInXk1dByv0jv", #bang bastian/
+            "https://drive.google.com/uc?export=view&id=1R8JcrbGx68JFMzI_EoF9Spjfw6vn-aaa", #kak nazwa
             "https://drive.google.com/uc?export=view&id=1_N29FR9EEChVaZ_4oR8i0__CakKaSkgM", #kak dea
             "https://drive.google.com/uc?export=view&id=1wL8Zr_k4z3AO-TulVoJG97i1hfCvVB2_", #kak esteria
             "https://drive.google.com/uc?export=view&id=1T8vv-bDnO6EW7bPuKzo4md9WVIWvKdsQ", #kak natasya
-            "https://drive.google.com/uc?export=view&id=1qxm6FAwQ98zNY2JEN4YjInXk1dByv0jv", #kak novelia/
             "https://drive.google.com/uc?export=view&id=1VdAxQJyipdNM6CjzlIIvfTw9sewOzzxv", #kak ratu
             "https://drive.google.com/uc?export=view&id=12_Gp5qnW1BaEip-GoG1NONBiisip8GXb", #bang tobias
             "https://drive.google.com/uc?export=view&id=19iSRZmio46e_yHMKTGcF4PWGu_bREEAt", #kak yohana
             "https://drive.google.com/uc?export=view&id=1rsUKVTpbfbs2JOiXEgXmA346KjHYLDQe", #bang rizky
             "https://drive.google.com/uc?export=view&id=17zMM0-_9psqGm894eTWSAyP5qspHuaC-", #bang arafi
             "https://drive.google.com/uc?export=view&id=191nGzUCKK0MIug4_6EvnedJG6w8pnymG", #kak asa
-            "https://drive.google.com/uc?export=view&id=1qxm6FAwQ98zNY2JEN4YjInXk1dByv0jv", #kak chalifia/ 
+            "https://drive.google.com/uc?export=view&id=1tL4vKvbGnjGalOSyyK5xYoSMN03VYkuZ", #kak chalifia
             "https://drive.google.com/uc?export=view&id=1YadW3_teTcxYdxi-jEvejzOgRHQkZtNi", #bang irvan
             "https://drive.google.com/uc?export=view&id=1c-E7upJ5EWJB7gIFyU_cDjPDjnu4-CVw", #kak izza
             "https://drive.google.com/uc?export=view&id=1c-Uo6_8fTnxvqVU1H6-ifOi5hLQ18E69", #kak khalishah
