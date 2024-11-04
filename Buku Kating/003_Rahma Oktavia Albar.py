@@ -647,7 +647,7 @@ elif menu == "Psda":
                 "kesan": "Bang Rafly tegas namun juga baik", 
                 "Pesan" : "Sehat selalu bang, jangan patah semangat",
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
-            }
+            },
         ]
 
         display_images_with_data(gambar_urls, data_list)
