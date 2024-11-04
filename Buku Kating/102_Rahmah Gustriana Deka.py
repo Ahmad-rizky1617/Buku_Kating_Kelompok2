@@ -962,18 +962,6 @@ elif menu == "Departemen Eksternal":
                 "jabatan" : "Kepala Divisi Hubungan Luar", # 3
             },
             {
-                "nama": "Bastian Heskia Silaban",
-                "nim": "122450130",
-                "umur": "21",
-                "asal": "Batam, Kep. Riau",
-                "alamat": "Belwis",
-                "hobbi": "Menggambar",
-                "sosmed": "@bastiansilaban_",
-                "kesan": "Wow hobi kit sama bang",
-                "pesan": "Semangat bang kuliahnya!", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 4
-            },
-            {
                 "nama": "Dea Mutia Risani",
                 "nim": "122450099",
                 "umur": "20",
@@ -983,7 +971,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@deaa.rsn",
                 "kesan": "Kakak daplokku yang cantik, baik dan sabar seluas samudra",
                 "pesan": "Semangat kak kuliahnya dan jangan pernah cape sama kelakuan anakmu ini yah", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 5
+                "jabatan" : "Staff Divisi Hubungan Luar", # 4
             },
             {
                 "nama": "Esteria Rohanauli Sidauruk",
@@ -995,7 +983,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@esteriars",
                 "kesan": "Kakak orangnya asyik",
                 "pesan": "Semangat kakak,tetep bahagia terus ya", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 6
+                "jabatan" : "Staff Divisi Hubungan Luar", # 5
             },
             {
                 "nama": "Natasya Ega Lina",
@@ -1007,19 +995,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@nateee__15",
                 "kesan": "Kakak sepuh coding ini kayaknya",
                 "pesan": "Semangat terus kakk", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 7
-            },
-            {
-                "nama": "Novelia Adinda",
-                "nim": "122450104",
-                "umur": "21",
-                "asal": "Jakarta Timur",
-                "alamat": "Belwis",
-                "hobbi": "Tidur",
-                "sosmed": "@nvliaadinda",
-                "kesan": "Seperti kakak-kakak hublu lainnya, kakak juga ga kalah asyik dan positif vibes orangnya",
-                "pesan": "Semangat terus kak dalam menyebarkan kebahagiaan", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 8
+                "jabatan" : "Staff Divisi Hubungan Luar", # 6
             },
             {
                 "nama": "Ratu Keisha Jasmine Deanova",
@@ -1031,7 +1007,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@jasminednva",
                 "kesan": "Wow anti mainstream hobinya",
                 "pesan": "Semangat kak kuliah dan organisasinya", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 9
+                "jabatan" : "Staff Divisi Hubungan Luar", # 7
             },
             {
                 "nama": "Tobias David Manogari",
@@ -1043,7 +1019,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@tobiassiagian",
                 "kesan": "Abang yang selalu enerjik kalau suporteran",
                 "pesan": "Gasss bang, makin ditambah lagi semangatnya kalo mimpin suporteran", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 10
+                "jabatan" : "Staff Divisi Hubungan Luar", # 8
             },
              {
                 "nama": "Yohana Manik",
@@ -1055,7 +1031,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@yo_annamnk",
                 "kesan": "Kakak vibesnya ceria banget",
                 "pesan": "Sukses selalu kak di dalam hal apapun", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 11
+                "jabatan" : "Staff Divisi Hubungan Luar", # 9
             },
              {
                 "nama": "Rizky Adrian Bennovry",
@@ -1067,7 +1043,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@rzkdrnnn",
                 "kesan": "abang keknya tipe orang yang kalem ?",
                 "pesan": "yow tetap semangat kuliahnya bangg", 
-                "jabatan" : "Kepala Divisi Pengabdian Masyarakat", # 12
+                "jabatan" : "Kepala Divisi Pengabdian Masyarakat", # 10
             },
              {
                 "nama": "Arafi Ramadhan Maulana",
@@ -1079,7 +1055,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@rafiramadhanmaulana",
                 "kesan": "Hobinya sangat bermanfaat ya bang",
                 "pesan": "Semangat bang, semoga sukses juga bertaninya", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 13
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 11
             },
              {
                 "nama": "Asa Do’a Uyi",
@@ -1091,7 +1067,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@u_yippy",
                 "kesan": "Kakak ramah banget dan masyaallah suka banget liat cara berpakaian kakak",
                 "pesan": "Tetap semangat kak menjalani hari-harinya", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 14
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 12
             },
              {
                 "nama": "Chalifia Wananda",
@@ -1103,7 +1079,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@chlfawww",
                 "kesan": "Kakak asyik orangnya, cocok bgt di eksternal",
                 "pesan": "Jangan cape jadai orang yang berbagi kebahagiaan ya kak", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 15
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 13
             },
              {
                 "nama": "Irvan Alfaritzi",
@@ -1115,7 +1091,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@alfaritziirvan",
                 "kesan": "Memang orang-orang eksternal ini asyik semua",
                 "pesan": "Semangat bang jalani hari-harinya", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 16
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 14
             },
              {
                 "nama": "Izza Lutfia",
@@ -1127,7 +1103,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@izzalutfia",
                 "kesan": "Kakak asprak terbaikk, love sekebon deh buat kakak",
                 "pesan": "Semangat trs ya kak di organisasi dan aspraknya heheh", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 17
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 15
             },
              {
                 "nama": " Khaalishah Zuhrah Alyaa Vanefi",
@@ -1139,7 +1115,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@alyaavanevi",
                 "kesan": "Kayak namanya, kakak masyaaallah sekali",
                 "pesan": "Sukses selalu kak dunia akhiratnya", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 18
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 16
             },
              {
                 "nama": "Raid Muhammad Naufal",
@@ -1151,7 +1127,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@rayths_",
                 "kesan": "Dari hobinya keknya abang ini semangat banget orangnya wkwk",
                 "pesan": "Semangat aja deh bang semoga segala urusannya diperlancar", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 19
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 17
             },
              {
                 "nama": "Tria Yunanni",
@@ -1163,7 +1139,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": " @tria_y062",
                 "kesan": "positif vibes auranya",
                 "pesan": "Semangat kak kuliahnya dan organisasinya ", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 20
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 18
             },
 
            
