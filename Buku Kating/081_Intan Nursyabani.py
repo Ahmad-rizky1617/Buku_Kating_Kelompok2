@@ -963,7 +963,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@ramadhitaatifa",
                 "kesan": "keren dan aktif sih kakaknya",
                 "pesan": "semangat selalu kak", 
-                "jabatan" : "Sekretaris Departement", # 
+                "jabatan" : "Sekretaris Departement", # 1
             },
             {
                 "nama": "Nazwa Nabila",
@@ -1021,7 +1021,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwais",
                 "hobbi": "Surfing",
                 "sosmed": "@nateee__15",
-                "kesan": "aktif di organisasi an asik, wah kakaknya juga jaksel nih",
+                "kesan": "ktif di organisasi an asik, wah kakaknya juga jaksel nih",
                 "pesan": "Semangat ya kak", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
@@ -1033,7 +1033,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan": "Cantik dan ramah sekali kakaknya",
+                "kesan": "Cantik dan baik kakaknya",
                 "pesan": "bahagia selalu kak ", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
@@ -1057,7 +1057,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Pemda",
                 "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
-                "kesan": "Keren dan aktif juga abangnya keren",
+                "kesan": "aktif juga abangnya keren",
                 "pesan": "Jangan lupa istirahat dan minum ya bang", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
@@ -1094,7 +1094,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
                 "kesan": "Asik orangnya, hobinya juga unexpected banget",
-                "pesan": "Tetap jadi orang baik bang", 
+                "pesan": "Tetap semangat dan jangan menyerah", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
              {
@@ -1105,8 +1105,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
-                "kesan": "Kakaknya asik, semangat juga keliatannya",
-                "pesan": "Tetap jadi orang yang ramah kak", 
+                "kesan": "Kakaknya asik, semangat juga",
+                "pesan": "selalu berbuat baik kak", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
              {
@@ -1117,7 +1117,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Q Time",
                 "sosmed": "@chlfawww",
-                "kesan": "Baik dan ramah kakaknya",
+                "kesan": "ramah dan keren kakaknya",
                 "pesan": "selalu sukses, bahagia dan jangan stress ya kak", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
@@ -1130,7 +1130,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Nonton youtube, main game",
                 "sosmed": "@alfaritziirvan",
                 "kesan": "Keren dan baik hati abangnya",
-                "pesan": "Jangan lupa istirahat dan semangat bang", 
+                "pesan": "Jangan lupa berdoa dan semangat", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
              {
@@ -1154,7 +1154,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
                 "kesan": "Baik hati dan suka mengaji",
-                "pesan": "Sukses selalu kakk, jangan stress kak", 
+                "pesan": "Sukses selalu, jangan stress kak", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
              {
