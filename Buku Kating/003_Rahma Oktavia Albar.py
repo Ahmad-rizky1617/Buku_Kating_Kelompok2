@@ -414,7 +414,10 @@ elif menu == "Psda":
             "https://drive.google.com/uc?export=view&id=1M_GE0RXa_2LVNnddpp2p5OTCAt8YcKaj",
             "https://drive.google.com/uc?export=view&id=1MMGIOPTk0B4SrisbD7eNd5l8eS4ULp30",
             "https://drive.google.com/uc?export=view&id=1MOx407WVOMEzkVUmu3B79p4ZmjJ-FAd_",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1M1NV_KQphdDMMl4Xh-H1fbGEcTltg0vi",
+            "https://drive.google.com/uc?export=view&id=1LzlGskXPAsT44gi3JHa2r209m8Wigv8y",
+            "https://drive.google.com/uc?export=view&id=1Lzdx6HVlkBQsk4myGQ4Kl-dY6raeI4lz",
+            "https://drive.google.com/uc?export=view&id=1MC006cQ8O6BW8GoP6NC337wOtHySKt7o",
         ]
         data_list = [
             {
