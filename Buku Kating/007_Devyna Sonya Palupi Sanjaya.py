@@ -1118,7 +1118,7 @@ elif menu == "Departemen PSDA":
             },
              {
                 "nama": " Nisrina Nur Afifah",
-                "nim": "122450033",
+                "nim": "122450051",
                 "umur": "19",
                 "asal": "Bekasi",
                 "alamat": "Sukarame",
@@ -1603,13 +1603,13 @@ elif menu == "Departemen Internal":
                 "jabatan" : "Kepala Divisi Keharmonisasian", # 1
             },
             {
-                "nama": "Renita Siahaan",
+                "nama": "Renta Siahaan",
                 "nim": "122450070",
                 "umur": "21",
                 "asal": "Sumatera Utara",
                 "alamat": "Gerbang Barat",
                 "hobbi": "Membaca dan Memancing",
-                "sosmed": "@renita.shn",
+                "sosmed": "@renta.shn",
                 "kesan": "Cantik sekalii kak rennn",
                 "pesan": "sehat-sehat kakk, bahagia selaluu", 
                 "jabatan" : "Staff Keharmonisasian", # 1
