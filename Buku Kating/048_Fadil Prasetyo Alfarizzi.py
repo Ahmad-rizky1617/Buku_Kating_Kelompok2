@@ -153,7 +153,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Main gitar",
                 "sosmed": "@nadillaandr26",
                 "kesan": "Abangnya keren public speakingnya",
-                "pesan": "semangat bang nyanyinya", 
+                "pesan": "semangat bang gitarannya", 
                 "jabatan" : "Sekretaris Jendral", # 1
             },
             {
@@ -165,7 +165,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin Pandra Gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Kakaknya keliatan pintar dan baik",
-                "pesan": "semangat kak dengerin bang pandra nyanyi", 
+                "pesan": "semangat kak dengerin bang pandra gitaran", 
                 "jabatan" : "Sekretaris 1", # 1
             },
             {
