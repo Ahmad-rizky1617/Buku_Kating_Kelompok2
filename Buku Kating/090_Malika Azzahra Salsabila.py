@@ -484,7 +484,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": " Nisrina Nur Afifah",
-                "nim": "122450033",
+                "nim": "122450052",
                 "umur": "19",
                 "asal": "Bekasi",
                 "alamat": "Sukarame",
@@ -578,7 +578,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Sukses terus kakk, ayo main bareng ;)", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
-             {
+            {
                 "nama": "Allya Nurul Islami Pasha",
                 "nim": "122450033",
                 "umur": "20",
@@ -590,7 +590,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat kuliahnya kak, sukses terus", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
-             {
+            {
                 "nama": "Eksanty Febriana Sukma Islamiaty",
                 "nim": " 122450001",
                 "umur": "20",
@@ -602,9 +602,9 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat terus kak, sukses selalu", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
-             {
+            {
                 "nama": "M. Deriansyah Okutra",
-                "nim": "122450051",
+                "nim": "122450101",
                 "umur": "19",
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",
@@ -614,7 +614,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat kuliahnya bang, sukses terus", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
-             {
+            {
                 "nama": "Oktavia Nurwendah Puspita Sari",
                 "nim": "1224500418",
                 "umur": "20",
@@ -626,7 +626,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat kuliahnya kak, sukses selalu", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
-             {
+            {
                 "nama": "Gede Moena",
                 "nim": " 121450014",
                 "umur": "21",
@@ -638,7 +638,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat kuliahnya bang, sukses terus", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
-             {
+            {
                 "nama": "Jaclin Alcavella",
                 "nim": "122450015",
                 "umur": "19",
@@ -650,7 +650,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat terus kakk, kapan kapan ayo ngobrol lagi", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
-             {
+            {
                 "nama": "Rafly Prabu Darmawan",
                 "nim": "122450140",
                 "umur": "20",
@@ -662,7 +662,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat kuliahnya bang, sukses terus", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
-             {
+            {
                 "nama": "Syalaisha Andini Putriansyah",
                 "nim": "122450111",
                 "umur": "21",
@@ -683,25 +683,25 @@ elif menu == "Departemen MIKFES":
 
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=18W1dNVSnHKimBT6QsrDEiKDU5BDaFRKM",
-            "https://drive.google.com/uc?export=view&id=18L4Hr0OZAinhXmtN9S1K-k2euGZVlEXn",
-            "https://drive.google.com/uc?export=view&id=1Pnuzz0xJGwS0KEQG4umEkU2fzRnUyGwA",
-            "https://drive.google.com/uc?export=view&id=1mVFzWZSsV80XybgO6TYVV8tJPDDxWtdE",
-            "https://drive.google.com/uc?export=view&id=1ALJ3mUe9RoTLopOzf4IzcGzryDBuL0nl",
-            "https://drive.google.com/uc?export=view&id=1k7nOJiJtSNhTZwggtHwMfiDSans4t-4i",
-            "https://drive.google.com/uc?export=view&id=1DEaOtJIDkJaEO4qgAaYJLOUpa0xMxeZu",
-            "https://drive.google.com/uc?export=view&id=1LoPuUW7dnifk7rUESlcvXFDlH7MhNE8J",
-            "https://drive.google.com/uc?export=view&id=12oGKmOWntKalGr1PKyRLhLME4b__aeQY",
-            "https://drive.google.com/uc?export=view&id=1L5byKSeM6SC2URb1DIX6vm276JooOY84",
-            "https://drive.google.com/uc?export=view&id=1MLXXV_XlQJCxgN9Zg3U7AqdVy9yvURZ7",
-            "https://drive.google.com/uc?export=view&id=1rJ3-wktVYZRJXgbwLO2xq2CvNYwNshKI",
-            "https://drive.google.com/uc?export=view&id=1leNbOv0dg4YP_uoj3RTjdGpiZQWJzk4_",
-            "https://drive.google.com/uc?export=view&id=1GqLONvnN1bVlK9P-W4wLWQwuFpnsYEUL", 
-            "https://drive.google.com/uc?export=view&id=1Il67H2c0HHM9TA8EE-a0UQTlaUT_sI6J",
-            "https://drive.google.com/uc?export=view&id=1e0K7hYXDbh3sSqNjwf734qB6FwzLAKgG",
-            "https://drive.google.com/uc?export=view&id=1hWqVGqfxJi2cOQt6g7nrmFBlmcOgJ5rm",
-            "https://drive.google.com/uc?export=view&id=1xKugy1HwL-egysjK_mU6KLMMZ4g5xu2j",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1yWrblSM4YA_FMGiebvaOkj7vDDXC2pGO",
+            "https://drive.google.com/uc?export=view&id=1z-gCLTQ0ajlnDhKbQgeMZi4X5k_NbK9T",
+            "https://drive.google.com/uc?export=view&id=1yXcz1Ajxsm51gP2zTTDJLLJMcp3bSG0g",
+            "https://drive.google.com/uc?export=view&id=1zMd1BP5tfQvhg8ngiHLX4uPWy0Ncshxi",
+            "https://drive.google.com/uc?export=view&id=1yaQ8IvUZgqwhno4bmOURFBB7bC-k-AbA",
+            "https://drive.google.com/uc?export=view&id=1yvCVrSqvsRDTNYkXmN_ooTX8qNBfUAF8",
+            "https://drive.google.com/uc?export=view&id=1yXDp9nvcG4VkSSIR6iy99PEMsv_-ppGI",
+            "https://drive.google.com/uc?export=view&id=1yfqYOVTkCMoNcF5lQsDaQa3ILjvuLQ3i",
+            "https://drive.google.com/uc?export=view&id=1yhNC-M3YK0qtiuWStCdQGMJ9EP5k9O1c",
+            "https://drive.google.com/uc?export=view&id=1yyytDf4VuGJzitKr_cUZu0uqKVe8ytPo",
+            "https://drive.google.com/uc?export=view&id=1ycKcctg9wwdmQJ_D9cFs4wEfgnI4OjLi",
+            "https://drive.google.com/uc?export=view&id=1yjRWUhcoX96nxTfTmZ7Q3X5p1YpY0uON",
+            "https://drive.google.com/uc?export=view&id=1yiihgmaFiLr2pEPKHUUlcRIYpBSxKgHO",
+            "https://drive.google.com/uc?export=view&id=1zOxvk7vaqTNfgdDeEIKGOyy649biUVAF", 
+            "https://drive.google.com/uc?export=view&id=1zJ1HFx8JX8_2e3gThjS_SbVf1aX45bh4",
+            "https://drive.google.com/uc?export=view&id=1zVcisGsPNB4gayPBVDS1Nx3UzgCFxz1N",
+            "https://drive.google.com/uc?export=view&id=1z3rbKZ98fsL2fQSCYSv-Mm1gRWm4VRPr",
+            "https://drive.google.com/uc?export=view&id=1zPmt6X8shDZZVb2H4QgoB8WZnJ-EwO_C",
+            "https://drive.google.com/uc?export=view&id=1zMk_Aj2pTHI71wjIgMVRyH6XZa3lDBIH",
            
         ]
         data_list = [
@@ -850,6 +850,18 @@ elif menu == "Departemen MIKFES":
                 "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
             {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Belwis",
+                "hobbi": "Membaca",
+                "sosmed": "@puspadrr",
+                "kesan": "Kakaknya baik, cantik, dan keren banget",
+                "pesan": "Semangat kuliahnya kak, sukses terus", 
+                "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik",
+            },
+            {
                 "nama": "Abdurrahman Al-atsary",
                 "nim": " 121450128",
                 "umur": "23",
@@ -862,6 +874,18 @@ elif menu == "Departemen MIKFES":
                 "jabatan" : "Kepala Divisi Survei dan Riset", # 1
             },
             {
+                "nama": "Aditya Rahman",
+                "nim": " 122450113",
+                "umur": "20",
+                "asal": "Lampung Timur",
+                "alamat": "Korpri",
+                "hobbi": "Ngoding WISATA",
+                "sosmed": "@rahm_adityaa",
+                "kesan": "Abangnya keren",
+                "pesan": "Semangat kuliahnya bang, sukses selalu", 
+                "jabatan" : "Staff Divisi Survei dan Riset", # 1
+            },
+            {
                 "nama": "Eggi Satria",
                 "nim": "122450032",
                 "umur": "20",
@@ -870,8 +894,8 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Ngoding dan buat konten WISATA",
                 "sosmed": "@egistr",
                 "kesan": "Abangnya keren dan baik banget",
-                "pesan": "Sukses selalu bang, tetap memotivasi kami ya", 
-                "jabatan" : "@egistr", # 1
+                "pesan": "Sukses selalu bang, semangat kuliahnya", 
+                "jabatan" : "Staff Divisi Survei dan Riset", # 1
             },
             {
                 "nama": "Aditya Rahman",
@@ -897,7 +921,7 @@ elif menu == "Departemen MIKFES":
                 "pesan": "Semangat kuliahnya kak, sukses terus", 
                 "jabatan" : "Staff Divisi Survei dan Riset", # 1
             },
-             {
+            {
                 "nama": "Happy Syahrul Ramadhan",
                 "nim": "122450013",
                 "umur": "20",
@@ -909,7 +933,7 @@ elif menu == "Departemen MIKFES":
                 "pesan": "Sukses selalu bang", 
                 "jabatan" : "Staff Divisi Survei dan Riset", # 1
             },
-             {
+            {
                 "nama": "Randa Andriana Putra",
                 "nim": "122450083",
                 "umur": "21",
@@ -931,26 +955,26 @@ elif menu == "Departemen_Eksternal":
 
     def Departemen_Eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1y89YBiEQT_Q2nh9g57D_ehyFOTEyn4Hx",
-            "https://drive.google.com/uc?export=view&id=1V6TkepkVWodtbEOBAIR-EUtYiG_DLM8r",
-            "https://drive.google.com/uc?export=view&id=1b83H4yUz41tKqT2a4ZsbKbA2gjsVB5Fv",
-            "https://drive.google.com/uc?export=view&id=1pKyKCGTkuLx_WUjZnztYEF4IoUmLtmGZ",
-            "https://drive.google.com/uc?export=view&id=18DP9CBU3hNnk1iDuBUjqmSEKGf_rZqLZ",
-            "https://drive.google.com/uc?export=view&id=14MmecgWS8K9LXmnegD-lVo3QpMww-ugK",
-            "https://drive.google.com/uc?export=view&id=1T449s-D9yMDSR5WwU6Gdooq6bMNXk-rT",
-            "https://drive.google.com/uc?export=view&id=1kWDKN134o1XY3eWEdF8cSD6MPVgHKIde",
-            "https://drive.google.com/uc?export=view&id=177FH9CzVDLfXejRvPkQC0Akpus1SoTcm",
-            "https://drive.google.com/uc?export=view&id=1QReNJbCCbEyx9mqy1EQoq094EjwskYyU",
-            "https://drive.google.com/uc?export=view&id=1pdbDGCwVzRuPxw3uZsHWVEh9wymZgl63",
-            "https://drive.google.com/uc?export=view&id=1aQNgUn6ihpR9cDDQLiMkoUYbLQYow8pw",
-            "https://drive.google.com/uc?export=view&id=1GO_FFSCvStabdREsq9Tnj8xFRnAs8Rn2",
-            "https://drive.google.com/uc?export=view&id=1RQkBtyLKKGfEoEy9KwZ92YCmQ16xotyH",
-            "https://drive.google.com/uc?export=view&id=1qCR0vVqpBjOwYpvd9sjFIFeT_-_ojF3c",
-            "https://drive.google.com/uc?export=view&id=1OZDxyBQhj1vBI6d9XE9Yh7UD5MI7PjvZ",
-            "https://drive.google.com/uc?export=view&id=1A8vCohD6KV_66htONNiBCt4DtpUAtDKy",
+            "https://drive.google.com/uc?export=view&id=1vaCsxuvPBXxMtI_n0e-ruAqwH2XND9s9",
+            "https://drive.google.com/uc?export=view&id=1ulVT7c8__bB8OqLYvOB7AZACsX80awbK",
+            "https://drive.google.com/uc?export=view&id=1vTxd_6chk6RdcvGxazgNz-Ygr5-KgxVr",
+            "https://drive.google.com/uc?export=view&id=1mKQWJ2MbItItlvpX61JGwk4RjK7CjOJZ",
+            "https://drive.google.com/uc?export=view&id=1vpuMCV_YDxTEvA2Wkl6Z_8-U4V88HECH",
+            "https://drive.google.com/uc?export=view&id=1vDQoxrJpcwK8R_wQkobb6HX2A0jdJSDm",
+            "https://drive.google.com/uc?export=view&id=1v-oUYqLQ7-kQgatjyWBVwzv3c5u-aJEm",
+            "https://drive.google.com/uc?export=view&id=1j-PCcvw7nCG9JeMU7DX_K8vKKEwEJdk5",
+            "https://drive.google.com/uc?export=view&id=1vsBRfO1zxIHCCAbK1A0uTM5OGVPXieon",
+            "https://drive.google.com/uc?export=view&id=1ujmRt9WVzqtKJ28W8hXrWmJvqyup9YaN",
+            "https://drive.google.com/uc?export=view&id=1vhrfk3LfcPWk2IpxRMDwMdRcR0dUcUY0",
+            "https://drive.google.com/uc?export=view&id=1gbu8wNNg-7G6IDlFZs3YQQMg4xGc6e_2",
+            "https://drive.google.com/uc?export=view&id=1voQ7OkeYArdWMIti6v_DXoxTGSgDHo1r",
+            "https://drive.google.com/uc?export=view&id=1usTaiArWmJ125PH1aIksQqzOOA0n3yPR",
+            "https://drive.google.com/uc?export=view&id=1zb667RRswUktj6u5QTHg0X9qnNszrHGa",
+            "https://drive.google.com/uc?export=view&id=1vjU0SlJWi3Hs9Yk79ap6EQleqNQp3Wom",
+            "https://drive.google.com/uc?export=view&id=1zYwzlmYm4Xu68ufASzh8YeYr59MyubXn",
+            "https://drive.google.com/uc?export=view&id=1bWItXALZxsCwgeaCccgwH22FLo-QJOgR",
+            "https://drive.google.com/uc?export=view&id=1vPHcWF_yOQleEcIBskZoV7uDap4wd3Z1",
+            "https://drive.google.com/uc?export=view&id=1ufqk9x5q6-puBUziktjcbY_231cYUyi-",
         ]
         data_list = [
             {
@@ -991,15 +1015,15 @@ elif menu == "Departemen_Eksternal":
             },
             {
                 "nama": "Bastian Heskia Silaban",
-                "nim": "121450",
-                "umur": "",
-                "asal": "",
-                "alamat": "",
-                "hobbi": "",
-                "sosmed": "",
+                "nim": "122450130",
+                "umur": "21",
+                "asal": "Batam, Kep. Riau",
+                "alamat": "Belwis",
+                "hobbi": "Menggambar",
+                "sosmed": "@bastiansilaban_",
                 "kesan": "Abangnya baik, keren juga",
                 "pesan": "Semangat terus kuliahnya bang", 
-                "jabatan" : "", # 1
+                "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
             {
                 "nama": "Dea Mutia Risani",
@@ -1013,7 +1037,6 @@ elif menu == "Departemen_Eksternal":
                 "pesan": "Semangat terus kuliahnya kak dee, jangan kapok jadi daplok kami ya kak", 
                 "jabatan" : "Staff Divisi Hubungan Luar",
             },
-
             {
                 "nama": "Esteria Rohanauli Sidauruk",
                 "nim": "122450025",
@@ -1718,7 +1741,7 @@ elif menu == "Departemen MedKraf":
                 "pesan": "Semangat kuliahnya bang", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
-             {
+            {
                 "nama": "Akmal Faiz Abdillah",
                 "nim": "122450114",
                 "umur": "20",
@@ -1730,7 +1753,7 @@ elif menu == "Departemen MedKraf":
                 "pesan": "Semangat bang, sukses selalu", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
-             {
+            {
                 "nama": "Hermawan Manurung ",
                 "nim": "122450069",
                 "umur": "20",
@@ -1742,7 +1765,7 @@ elif menu == "Departemen MedKraf":
                 "pesan": "Semangat kuliahnya bang, semoga isi linkedinnya nular bangg", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
-             {
+            {
                 "nama": "Khusnun Nisa",
                 "nim": "122450078",
                 "umur": "20",
@@ -1754,7 +1777,7 @@ elif menu == "Departemen MedKraf":
                 "pesan": "Semangat kuliahnya kak, sehat selalu", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
-             {
+            {
                 "nama": "Priska Silvia Ferantiana",
                 "nim": "122450053",
                 "umur": "20",
