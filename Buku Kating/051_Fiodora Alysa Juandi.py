@@ -1127,7 +1127,7 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
-                "nim": "122450111",
+                "nim": "122450121",
                 "umur": "21",
                 "asal": "Tangerang",
                 "alamat": "Gg Yudhistira",
