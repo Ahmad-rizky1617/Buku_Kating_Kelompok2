@@ -96,7 +96,8 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
-            st.write("  ")
+            st.write(f"Jabatan: {data_list[i]['jabatan']}")
+            st.markdown("---") 
     st.write("Semua gambar telah dimuat!")
 
 
@@ -343,7 +344,7 @@ elif menu == "Baleg":
                 "umur": "20 tahun",
                 "asal": "Ogan Ilir",
                 "alamat": "Natar",
-                "hobi": "Nyari Sinyal di Gedung F",
+                "hobbi": "Nyari Sinyal di Gedung F",
                 "sosmed": " @_.dheamelia",
                 "kesan": "Kakaknya kelihatan aktif organisasi bangettt",
                 "pesan": "Ramahh banget kak Dheaa", 
@@ -1103,7 +1104,7 @@ elif menu == "Departemen_Eksternal":
                 "umur": "19 tahun",
                 "asal": "Jakarta Selatan",
                 "alamat": "Belwais",
-                "hobi": "Main Bowling",
+                "hobbi": "Main Bowling",
                 "sosmed": " @yo_annamnk",
                 "kesan": "Kakaknya lucu, ramah dan seru banget",
                 "pesan": "Semangat kuliahnya kak, ayo ngobrol bareng lagi", 

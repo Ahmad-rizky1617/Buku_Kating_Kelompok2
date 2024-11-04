@@ -108,9 +108,9 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1dQHbiGzXsxjbp_TguJNgfUNwDGx3JHRx",
+            "https://drive.google.com/uc?export=view&id=1dOVQunnUCWK-DLOoIkwcMqIi70_gzwmu",
             "https://drive.google.com/uc?export=view&id=1dGkdjR-B4Gx2r2J_IQfzsJpzJS2B9Iw5",
             "https://drive.google.com/uc?export=view&id=1dJ6438dvFzjRXr25KzO1lmxha8P4YSit",
-            "https://drive.google.com/uc?export=view&id=1dOVQunnUCWK-DLOoIkwcMqIi70_gzwmu",
             "https://drive.google.com/uc?export=view&id=1dHmV6_bfmkavCuMYwf7V695ZC59GD1cB",
             "https://drive.google.com/uc?export=view&id=1dJspqeENS7eJioLC6jmakfEVc6EBK2UO",
         ]
@@ -126,6 +126,18 @@ if menu == "Kesekjenan":
                 "kesan": "banyak wawasannya dan keren ",
                 "pesan": "Sukses terus ya bang, makasih insightnya,",
                 "jabatan" : "Ketua himpunan",  # 1
+            },
+            {
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": " 121450137",
+                "umur": "21",
+                "asal": "Lampung Utara",
+                "alamat": "Bawean 2",
+                "hobbi": "Main gitar",
+                "sosmed": "@pndrinsni27",
+                "kesan": "keren dan asik abangnya",
+                "pesan": "semangat kuliahnya bang", 
+                "jabatan" : "Sekretaris Jendral", # 1
             },
             {
                 "nama": "Meliza Wulandari",
@@ -151,18 +163,7 @@ if menu == "Kesekjenan":
                 "pesan": "semangat menjalani hidupnya kak",
                 "jabatan" : "Bendahara umum",  # 1
             },
-            {
-                "nama": "Pandra Insani Putra Azwar",
-                "nim": " 121450137",
-                "umur": "21",
-                "asal": "Lampung Utara",
-                "alamat": "Bawean 2",
-                "hobbi": "Main gitar",
-                "sosmed": "@pndrinsni27",
-                "kesan": "keren dan asik abangnya",
-                "pesan": "semangat kuliahnya bang", 
-                "jabatan" : "Sekretaris Jendral", # 1
-            },
+
             {
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
