@@ -104,6 +104,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1iPDBlMyuALLAajTsCKzqv5HYOQMp_Q0h",
             "https://drive.google.com/uc?export=view&id=1iVjayLW1HGFIHJN7DjxycVHxQ035upoF",
             "https://drive.google.com/uc?export=view&id=1iPY4z7FG9km0985uLa1OLgPTyLhYrV3f",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
             "https://drive.google.com/uc?export=view&id=1mmbjC7BFnSlVGTD2G3074LvseENZvdMy",
         ]
         data_list = [
@@ -765,7 +766,7 @@ elif menu == "Departemen PSDA":
 
     def PSDA():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1mDQvHM2v7wBxBrmUpxA-I7bHJ8wR7A8Q",
+            "https://drive.google.com/uc?export=view&id=1WeC0SNDTXWca0InAUbzxEeYPTvCN9OO5",
             "https://drive.google.com/uc?export=view&id=1JRCroxXa9pjfKejhAI-wziuHOwfNF_ql",
             "https://drive.google.com/uc?export=view&id=1KANJmnLqhZZBaPl6lxI-UlbVTNqtKueD",
             "https://drive.google.com/uc?export=view&id=1K8qMVQr9IxdXw4Clhd9_8XEjgqc0rf4V",
@@ -780,9 +781,9 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1KForphp_FwCv4y8kVmjFPGZBb-mF5znD",
             "https://drive.google.com/uc?export=view&id=1JlJQH0T4NgeIyEnciWCd_XwG-vQAbikf",
             "https://drive.google.com/uc?export=view&id=1K8HNR4KHUqEF7dOIPHqhSHvhkMgpxcRq",
-            "https://drive.google.com/uc?export=view&id=1JYV9EnpgZ8xZBjUiCyJ8_yr2t__WbU9v",
-            "https://drive.google.com/uc?export=view&id=1KFC4eIF5HjSkhasIZAB8-uRQNTEBdav6",
             "https://drive.google.com/uc?export=view&id=1KCpY4Xz_AeGyb4eIeyXEJLZ2Bv221vdI",
+            "https://drive.google.com/uc?export=view&id=1KFC4eIF5HjSkhasIZAB8-uRQNTEBdav6",
+            "https://drive.google.com/uc?export=view&id=1JYV9EnpgZ8xZBjUiCyJ8_yr2t__WbU9v",
             "https://drive.google.com/uc?export=view&id=1JbSPd8pLTMIJVM4y15q0aYSXVfjB6UNY",
         ]
         data_list = [
