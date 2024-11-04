@@ -458,7 +458,7 @@ elif menu == "Psda":
             },
             {
                 "nama": "Nisrina Nur Afifah",
-                "nim": "122450033",
+                "nim": "122450052",
                 "umur": "20",
                 "asal": "Bekasi",
                 "alamat": "Sukarame",
@@ -578,7 +578,7 @@ elif menu == "Psda":
             },
             {
                 "Nama": "M. Deriansyah Okutra",
-                "nim": "122450051",
+                "nim": "122450101",
                 "umur": "19",
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",
@@ -1212,8 +1212,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Baca Novel",
                 "sosmed": "@cathrine.sinaga",
-                "kesan": "Kakak asyik juga orangnya",
-                "pesan": "Tetap semangat kak akademik dan non akademiknya", 
+                "kesan": "kakaknya humble",
+                "pesan": "Semangat kuliahnya bang", 
                 "jabatan" : "Sekretaris Departemen Internal", # 2
             },
             {
@@ -1224,8 +1224,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Pasaruntung",
                 "hobbi": "Mengoleksi Dino",
                 "sosmed": "@akbar_restika",
-                "kesan": "Hobinya out of the box bang",
-                "pesan": "Semangat bang menambah Dino nya hehe", 
+                "kesan": "Abangnya asik",
+                "pesan": "Semangat bang kuliahnya", 
                 "jabatan" : "Kepala Divisi Keharmonisasian", # 3
             },
             {
@@ -1236,8 +1236,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi": "Membaca dan Memancing",
                 "sosmed": "@renita.shn",
-                "kesan": "Kakak lucu orangnya",
-                "pesan": "ajakin aku mancing dong kak hehe", 
+                "kesan": "Kakak humble",
+                "pesan": "Jangan lupa istirahat kak", 
                 "jabatan" : "Staff Keharmonisasian", # 4
             },
             {
@@ -1248,7 +1248,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Nonton",
                 "sosmed": "@slwfhn_694",
-                "kesan": "Masyaallah kaya namanya kak",
+                "kesan": "Kakak cantik sekali",
                 "pesan": "Semangat kak kuliahnya", 
                 "jabatan" : "Staff Keharmonisasian", # 5
             },
@@ -1260,8 +1260,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Jl. Lapas Raya",
                 "hobbi": "Menulis lagu",
                 "sosmed": "@rendraepr",
-                "kesan": "Abang orangnya asyik banget, bisa bikin orang ketawa ",
-                "pesan": "Bang jangan cape jadi orang yang humoris yah", 
+                "kesan": "Abangnya humble",
+                "pesan": "Jangan berhenti menjadi orang baik bang", 
                 "jabatan" : "Staff Keharmonisasian", # 6
             },
             {
@@ -1272,8 +1272,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Perum Griya Indah",
                 "hobbi": "Nungguin ayam betina berkokok",
                 "sosmed": "@yosiabanurea",
-                "kesan": "Humoris abiez nih abang orangnya",
-                "pesan": "Lanjutkan bang, buat orang lain jadi tertawa", 
+                "kesan": "Abangnya sangat keren",
+                "pesan": "Jangan lupa bahagia kak", 
                 "jabatan" : "Staff Keharmonisasian", # 7
             },
             {
@@ -1284,7 +1284,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Labuhan Ratu",
                 "hobbi": "Futsal",
                 "sosmed": "@ari_sigit17",
-                "kesan": "Masyaallah abang keliatannya kalem dan sangat agamis, cocok banget di kerohanian",
+                "kesan": "Abangnya tenang, kalem",
                 "pesan": "Semangat bang semoga baik dunia dan akhiratnya", 
                 "jabatan" : "Kepala Divisi Kerohanian", # 8
             },
@@ -1296,8 +1296,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi": "Ngejokes",
                 "sosmed": "@josuapanggabean_",
-                "kesan": "Abang diem-diem tapi lucu orangnya ",
-                "pesan": "Semangat bang, apalagi buat pj MSS RB heheh", 
+                "kesan": "Abang tenang namun asik",
+                "pesan": "Semangat bang kuliahnya", 
                 "jabatan" : "Staff Kerohanian", # 9
             },
             {
@@ -1308,8 +1308,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Natar",
                 "hobbi": "Berkebun",
                 "sosmed": "@azizahksma15",
-                "kesan": " kalem kakaknya",
-                "pesan": "Semangat kak menjalani hari-harinya", 
+                "kesan": " kakaknya keren sekali",
+                "pesan": "Semangat menjadi orang baik bang", 
                 "jabatan" : "Staff Kerohanian", # 10
             },
              {
@@ -1320,7 +1320,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Nonton",
                 "sosmed": "@meiralsty_",
-                "kesan": "Kakak juga kalem, cocok banget di kerohanian",
+                "kesan": "Kakak sangat tenang",
                 "pesan": "Semangat terus yah kak ", 
                 "jabatan" : "Staff Kerohanian", # 11
             },
@@ -1332,11 +1332,10 @@ elif menu == "Departemen Internal":
                 "alamat": "Kost Benawang",
                 "hobbi": "Berenang di Laut",
                 "sosmed": "@rexander",
-                "kesan": "Memang daplok paling baik sih, fix",
-                "pesan": "Semangat terus abangkuhh, semoga semuanya dipermudah", 
+                "kesan": "Abangnya humble,baik, mengayomi, tidak pernah marah",
+                "pesan": "Semangat menjadi daplok bang, jangan pernah lelah dengan kami bang", 
                 "jabatan" : "Staff Kerohanian", # 12
             },
-
         ]
         display_images_with_data(gambar_urls, data_list)
 
