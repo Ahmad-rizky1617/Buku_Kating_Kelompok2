@@ -385,8 +385,8 @@ elif menu == "Senator":
 
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1g1pBDj7TvBmCNVr5IuXuC9gVA9NM6AP9",
-            "https://drive.google.com/uc?export=view&id=1CNXUM6-Ho19M_FxUeWoLyZDENHkZk_HV",
+            "https://drive.google.com/uc?export=view&id=1uVBfu3GSOjl5Wp8hRof-KLYlfNIJaLlH",
+            "https://drive.google.com/uc?export=view&id=1uQuKwN5XL9V8F6taP-sbQUGMIMOUV5c_",
             
             
         ]
@@ -425,25 +425,25 @@ elif menu == "Departemen PSDA":
 
     def PSDA():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1nD2uKyicnRNws4uldehZqeXo00eJlVy4",
-            "https://drive.google.com/uc?export=view&id=1LNtD6yvIql5AzkklMKss8HVC1u3JdNBJ",
-            "https://drive.google.com/uc?export=view&id=1-aiYqfpWI4AxlK5SkH6pL6_-0taJyE6T",
-            "https://drive.google.com/uc?export=view&id=1QL1cJFGLlSUapEFjMaHz-joZnU_vb8Ew",
-            "https://drive.google.com/uc?export=view&id=1Tz-H92IOIiXGaVybpcgFBL5Obq7AjkKu",
-            "https://drive.google.com/uc?export=view&id=1u9R__qmljmiCD5ADoA592nfds-E604lh",
-            "https://drive.google.com/uc?export=view&id=1aC0PVPxTPWj8X4rGX_ygOBGhGCjwaGo0",
-            "https://drive.google.com/uc?export=view&id=13uDeN5DjCaZuy7PRKNZ8u7vsJnuImMRE",
-            "https://drive.google.com/uc?export=view&id=1Go8b6f_g8QgYoJQZgaml_hMISC12AuLd",
-            "https://drive.google.com/uc?export=view&id=1WIVdvW9z_b6lCku5F98HueNYZVFKgpE-",
-            "https://drive.google.com/uc?export=view&id=1NRGD9w3Bf_RnZlmn2bp8_vuqK2WhzJIi",
-            "https://drive.google.com/uc?export=view&id=1XyDKZnmG8w_ri9Zn8QoCAhQ1JCOm8hkT",
-            "https://drive.google.com/uc?export=view&id=1Uxrd-t6hPeaZy2xy9Nm_yS8i1Q7lRqef",
-            "https://drive.google.com/uc?export=view&id=14URq3H99YFwuLVfQNM49MuVdb439ZNqY",
-            "https://drive.google.com/uc?export=view&id=1O3EmD-OY4-aS99UD9bI_gVhg0zGuI-TW",
-            "https://drive.google.com/uc?export=view&id=1lKnAQLN69rsw4-7vaLts-2YqjYsp-mto",
-            "https://drive.google.com/uc?export=view&id=1cWSwLCf1GEZuc5ztyfrjyZ5sqRQnvoDr",
-            "https://drive.google.com/uc?export=view&id=1il-mZTS6v9yXrrBZltzhr7tMwsOoRhQ3",
-            "https://drive.google.com/uc?export=view&id=16K6qB-D6x6oyHZRpuD4NuESOdzHTnewu",
+            "https://drive.google.com/uc?export=view&id=1tQeXf65cVW73xrcpObBaYW8fCa1_fspu",
+            "https://drive.google.com/uc?export=view&id=1tXxr6d4QbSlt6a6vlgsfgnag7hPjTF5O",
+            "https://drive.google.com/uc?export=view&id=1tMR6VCkyyErpzjhbxqEWWMZzeBfVp8FH",
+            "https://drive.google.com/uc?export=view&id=1uFRgJKB8L-Z20_xwBHOyTALDknPcpY-u",
+            "https://drive.google.com/uc?export=view&id=1u-VXBjlEep7wh-Snjd1W-_thbYkxrCoj",
+            "https://drive.google.com/uc?export=view&id=1u2bXbvdXhThS_xFsLkaMpV209q2AtFo7",
+            "https://drive.google.com/uc?export=view&id=1th5wfVLmp09hQPyBL9dezkG7Lj9OXUDd",
+            "https://drive.google.com/uc?export=view&id=1tsNiM-mgJ8eEEsdNmN7y96qcAhOeb6op",
+            "https://drive.google.com/uc?export=view&id=1tn0KPGKuKv5ocOylpvqzPb6oU6A3H4YR",
+            "https://drive.google.com/uc?export=view&id=1tHAQqqQWgtugV5oG8IyYKX0TecuiPpyi",
+            "https://drive.google.com/uc?export=view&id=1uBf1nHHPSreec_VKgw6921H7guQ0eqo0",
+            "https://drive.google.com/uc?export=view&id=1uMpPqdrEBmDTpUgBis2BOJP0pwrfhu5Y",
+            "https://drive.google.com/uc?export=view&id=1u425iviO9QZKM7r452sMettKZ6pj4qCi",
+            "https://drive.google.com/uc?export=view&id=1tc181wQGPzYPuULJTrhQQVr7V7wr4Tfm",
+            "https://drive.google.com/uc?export=view&id=1uF4M7KglZNuQdjXEj1oUzKSlN0KoZi9y",
+            "https://drive.google.com/uc?export=view&id=1uIzZBZHjMEK0ifKtPwEunQv4PhCizdmY",
+            "https://drive.google.com/uc?export=view&id=1uEAeQgEgPq3vDx5J0qAGylWaEmTLI2iX",
+            "https://drive.google.com/uc?export=view&id=1uPteg3e_q8_3DT4cBnjvMf9zO73jZ2M9",
+            "https://drive.google.com/uc?export=view&id=1uKaw3nvaylX_U9Lus02kVsaEwvUcXvFh",
         ]
         data_list = [
             {
@@ -484,7 +484,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": " Nisrina Nur Afifah",
-                "nim": "122450033",
+                "nim": "122450052",
                 "umur": "19",
                 "asal": "Bekasi",
                 "alamat": "Sukarame",
@@ -578,7 +578,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Sukses terus kakk, ayo main bareng ;)", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
-             {
+            {
                 "nama": "Allya Nurul Islami Pasha",
                 "nim": "122450033",
                 "umur": "20",
@@ -590,7 +590,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat kuliahnya kak, sukses terus", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
-             {
+            {
                 "nama": "Eksanty Febriana Sukma Islamiaty",
                 "nim": " 122450001",
                 "umur": "20",
@@ -602,9 +602,9 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat terus kak, sukses selalu", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
-             {
+            {
                 "nama": "M. Deriansyah Okutra",
-                "nim": "122450051",
+                "nim": "122450101",
                 "umur": "19",
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",
@@ -614,7 +614,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat kuliahnya bang, sukses terus", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
-             {
+            {
                 "nama": "Oktavia Nurwendah Puspita Sari",
                 "nim": "1224500418",
                 "umur": "20",
@@ -626,7 +626,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat kuliahnya kak, sukses selalu", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
-             {
+            {
                 "nama": "Gede Moena",
                 "nim": " 121450014",
                 "umur": "21",
@@ -638,7 +638,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat kuliahnya bang, sukses terus", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
-             {
+            {
                 "nama": "Jaclin Alcavella",
                 "nim": "122450015",
                 "umur": "19",
@@ -650,7 +650,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat terus kakk, kapan kapan ayo ngobrol lagi", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
-             {
+            {
                 "nama": "Rafly Prabu Darmawan",
                 "nim": "122450140",
                 "umur": "20",
@@ -662,7 +662,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat kuliahnya bang, sukses terus", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
-             {
+            {
                 "nama": "Syalaisha Andini Putriansyah",
                 "nim": "122450111",
                 "umur": "21",
@@ -683,25 +683,25 @@ elif menu == "Departemen MIKFES":
 
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=18W1dNVSnHKimBT6QsrDEiKDU5BDaFRKM",
-            "https://drive.google.com/uc?export=view&id=18L4Hr0OZAinhXmtN9S1K-k2euGZVlEXn",
-            "https://drive.google.com/uc?export=view&id=1Pnuzz0xJGwS0KEQG4umEkU2fzRnUyGwA",
-            "https://drive.google.com/uc?export=view&id=1mVFzWZSsV80XybgO6TYVV8tJPDDxWtdE",
-            "https://drive.google.com/uc?export=view&id=1ALJ3mUe9RoTLopOzf4IzcGzryDBuL0nl",
-            "https://drive.google.com/uc?export=view&id=1k7nOJiJtSNhTZwggtHwMfiDSans4t-4i",
-            "https://drive.google.com/uc?export=view&id=1DEaOtJIDkJaEO4qgAaYJLOUpa0xMxeZu",
-            "https://drive.google.com/uc?export=view&id=1LoPuUW7dnifk7rUESlcvXFDlH7MhNE8J",
-            "https://drive.google.com/uc?export=view&id=12oGKmOWntKalGr1PKyRLhLME4b__aeQY",
-            "https://drive.google.com/uc?export=view&id=1L5byKSeM6SC2URb1DIX6vm276JooOY84",
-            "https://drive.google.com/uc?export=view&id=1MLXXV_XlQJCxgN9Zg3U7AqdVy9yvURZ7",
-            "https://drive.google.com/uc?export=view&id=1rJ3-wktVYZRJXgbwLO2xq2CvNYwNshKI",
-            "https://drive.google.com/uc?export=view&id=1leNbOv0dg4YP_uoj3RTjdGpiZQWJzk4_",
-            "https://drive.google.com/uc?export=view&id=1GqLONvnN1bVlK9P-W4wLWQwuFpnsYEUL", 
-            "https://drive.google.com/uc?export=view&id=1Il67H2c0HHM9TA8EE-a0UQTlaUT_sI6J",
-            "https://drive.google.com/uc?export=view&id=1e0K7hYXDbh3sSqNjwf734qB6FwzLAKgG",
-            "https://drive.google.com/uc?export=view&id=1hWqVGqfxJi2cOQt6g7nrmFBlmcOgJ5rm",
-            "https://drive.google.com/uc?export=view&id=1xKugy1HwL-egysjK_mU6KLMMZ4g5xu2j",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1yWrblSM4YA_FMGiebvaOkj7vDDXC2pGO",
+            "https://drive.google.com/uc?export=view&id=1z-gCLTQ0ajlnDhKbQgeMZi4X5k_NbK9T",
+            "https://drive.google.com/uc?export=view&id=1yXcz1Ajxsm51gP2zTTDJLLJMcp3bSG0g",
+            "https://drive.google.com/uc?export=view&id=1zMd1BP5tfQvhg8ngiHLX4uPWy0Ncshxi",
+            "https://drive.google.com/uc?export=view&id=1yaQ8IvUZgqwhno4bmOURFBB7bC-k-AbA",
+            "https://drive.google.com/uc?export=view&id=1yvCVrSqvsRDTNYkXmN_ooTX8qNBfUAF8",
+            "https://drive.google.com/uc?export=view&id=1yXDp9nvcG4VkSSIR6iy99PEMsv_-ppGI",
+            "https://drive.google.com/uc?export=view&id=1yfqYOVTkCMoNcF5lQsDaQa3ILjvuLQ3i",
+            "https://drive.google.com/uc?export=view&id=1yhNC-M3YK0qtiuWStCdQGMJ9EP5k9O1c",
+            "https://drive.google.com/uc?export=view&id=1yyytDf4VuGJzitKr_cUZu0uqKVe8ytPo",
+            "https://drive.google.com/uc?export=view&id=1ycKcctg9wwdmQJ_D9cFs4wEfgnI4OjLi",
+            "https://drive.google.com/uc?export=view&id=1yjRWUhcoX96nxTfTmZ7Q3X5p1YpY0uON",
+            "https://drive.google.com/uc?export=view&id=1yiihgmaFiLr2pEPKHUUlcRIYpBSxKgHO",
+            "https://drive.google.com/uc?export=view&id=1zOxvk7vaqTNfgdDeEIKGOyy649biUVAF", 
+            "https://drive.google.com/uc?export=view&id=1zJ1HFx8JX8_2e3gThjS_SbVf1aX45bh4",
+            "https://drive.google.com/uc?export=view&id=1zVcisGsPNB4gayPBVDS1Nx3UzgCFxz1N",
+            "https://drive.google.com/uc?export=view&id=1z3rbKZ98fsL2fQSCYSv-Mm1gRWm4VRPr",
+            "https://drive.google.com/uc?export=view&id=1zPmt6X8shDZZVb2H4QgoB8WZnJ-EwO_C",
+            "https://drive.google.com/uc?export=view&id=1zMk_Aj2pTHI71wjIgMVRyH6XZa3lDBIH",
            
         ]
         data_list = [
@@ -850,6 +850,18 @@ elif menu == "Departemen MIKFES":
                 "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
             {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Belwis",
+                "hobbi": "Membaca",
+                "sosmed": "@puspadrr",
+                "kesan": "Kakaknya baik, cantik, dan keren banget",
+                "pesan": "Semangat kuliahnya kak, sukses terus", 
+                "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik",
+            },
+            {
                 "nama": "Abdurrahman Al-atsary",
                 "nim": " 121450128",
                 "umur": "23",
@@ -862,6 +874,18 @@ elif menu == "Departemen MIKFES":
                 "jabatan" : "Kepala Divisi Survei dan Riset", # 1
             },
             {
+                "nama": "Aditya Rahman",
+                "nim": " 122450113",
+                "umur": "20",
+                "asal": "Lampung Timur",
+                "alamat": "Korpri",
+                "hobbi": "Ngoding WISATA",
+                "sosmed": "@rahm_adityaa",
+                "kesan": "Abangnya keren",
+                "pesan": "Semangat kuliahnya bang, sukses selalu", 
+                "jabatan" : "Staff Divisi Survei dan Riset", # 1
+            },
+            {
                 "nama": "Eggi Satria",
                 "nim": "122450032",
                 "umur": "20",
@@ -870,8 +894,8 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Ngoding dan buat konten WISATA",
                 "sosmed": "@egistr",
                 "kesan": "Abangnya keren dan baik banget",
-                "pesan": "Sukses selalu bang, tetap memotivasi kami ya", 
-                "jabatan" : "@egistr", # 1
+                "pesan": "Sukses selalu bang, semangat kuliahnya", 
+                "jabatan" : "Staff Divisi Survei dan Riset", # 1
             },
             {
                 "nama": "Aditya Rahman",
@@ -897,7 +921,7 @@ elif menu == "Departemen MIKFES":
                 "pesan": "Semangat kuliahnya kak, sukses terus", 
                 "jabatan" : "Staff Divisi Survei dan Riset", # 1
             },
-             {
+            {
                 "nama": "Happy Syahrul Ramadhan",
                 "nim": "122450013",
                 "umur": "20",
@@ -909,7 +933,7 @@ elif menu == "Departemen MIKFES":
                 "pesan": "Sukses selalu bang", 
                 "jabatan" : "Staff Divisi Survei dan Riset", # 1
             },
-             {
+            {
                 "nama": "Randa Andriana Putra",
                 "nim": "122450083",
                 "umur": "21",
@@ -931,26 +955,26 @@ elif menu == "Departemen_Eksternal":
 
     def Departemen_Eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1y89YBiEQT_Q2nh9g57D_ehyFOTEyn4Hx",
-            "https://drive.google.com/uc?export=view&id=1V6TkepkVWodtbEOBAIR-EUtYiG_DLM8r",
-            "https://drive.google.com/uc?export=view&id=1b83H4yUz41tKqT2a4ZsbKbA2gjsVB5Fv",
-            "https://drive.google.com/uc?export=view&id=1pKyKCGTkuLx_WUjZnztYEF4IoUmLtmGZ",
-            "https://drive.google.com/uc?export=view&id=18DP9CBU3hNnk1iDuBUjqmSEKGf_rZqLZ",
-            "https://drive.google.com/uc?export=view&id=14MmecgWS8K9LXmnegD-lVo3QpMww-ugK",
-            "https://drive.google.com/uc?export=view&id=1T449s-D9yMDSR5WwU6Gdooq6bMNXk-rT",
-            "https://drive.google.com/uc?export=view&id=1kWDKN134o1XY3eWEdF8cSD6MPVgHKIde",
-            "https://drive.google.com/uc?export=view&id=177FH9CzVDLfXejRvPkQC0Akpus1SoTcm",
-            "https://drive.google.com/uc?export=view&id=1QReNJbCCbEyx9mqy1EQoq094EjwskYyU",
-            "https://drive.google.com/uc?export=view&id=1pdbDGCwVzRuPxw3uZsHWVEh9wymZgl63",
-            "https://drive.google.com/uc?export=view&id=1aQNgUn6ihpR9cDDQLiMkoUYbLQYow8pw",
-            "https://drive.google.com/uc?export=view&id=1GO_FFSCvStabdREsq9Tnj8xFRnAs8Rn2",
-            "https://drive.google.com/uc?export=view&id=1RQkBtyLKKGfEoEy9KwZ92YCmQ16xotyH",
-            "https://drive.google.com/uc?export=view&id=1qCR0vVqpBjOwYpvd9sjFIFeT_-_ojF3c",
-            "https://drive.google.com/uc?export=view&id=1OZDxyBQhj1vBI6d9XE9Yh7UD5MI7PjvZ",
-            "https://drive.google.com/uc?export=view&id=1A8vCohD6KV_66htONNiBCt4DtpUAtDKy",
+            "https://drive.google.com/uc?export=view&id=1vaCsxuvPBXxMtI_n0e-ruAqwH2XND9s9",
+            "https://drive.google.com/uc?export=view&id=1ulVT7c8__bB8OqLYvOB7AZACsX80awbK",
+            "https://drive.google.com/uc?export=view&id=1vTxd_6chk6RdcvGxazgNz-Ygr5-KgxVr",
+            "https://drive.google.com/uc?export=view&id=1mKQWJ2MbItItlvpX61JGwk4RjK7CjOJZ",
+            "https://drive.google.com/uc?export=view&id=1vpuMCV_YDxTEvA2Wkl6Z_8-U4V88HECH",
+            "https://drive.google.com/uc?export=view&id=1vDQoxrJpcwK8R_wQkobb6HX2A0jdJSDm",
+            "https://drive.google.com/uc?export=view&id=1v-oUYqLQ7-kQgatjyWBVwzv3c5u-aJEm",
+            "https://drive.google.com/uc?export=view&id=1j-PCcvw7nCG9JeMU7DX_K8vKKEwEJdk5",
+            "https://drive.google.com/uc?export=view&id=1vsBRfO1zxIHCCAbK1A0uTM5OGVPXieon",
+            "https://drive.google.com/uc?export=view&id=1ujmRt9WVzqtKJ28W8hXrWmJvqyup9YaN",
+            "https://drive.google.com/uc?export=view&id=1vhrfk3LfcPWk2IpxRMDwMdRcR0dUcUY0",
+            "https://drive.google.com/uc?export=view&id=1gbu8wNNg-7G6IDlFZs3YQQMg4xGc6e_2",
+            "https://drive.google.com/uc?export=view&id=1voQ7OkeYArdWMIti6v_DXoxTGSgDHo1r",
+            "https://drive.google.com/uc?export=view&id=1usTaiArWmJ125PH1aIksQqzOOA0n3yPR",
+            "https://drive.google.com/uc?export=view&id=1zb667RRswUktj6u5QTHg0X9qnNszrHGa",
+            "https://drive.google.com/uc?export=view&id=1vjU0SlJWi3Hs9Yk79ap6EQleqNQp3Wom",
+            "https://drive.google.com/uc?export=view&id=1zYwzlmYm4Xu68ufASzh8YeYr59MyubXn",
+            "https://drive.google.com/uc?export=view&id=1bWItXALZxsCwgeaCccgwH22FLo-QJOgR",
+            "https://drive.google.com/uc?export=view&id=1vPHcWF_yOQleEcIBskZoV7uDap4wd3Z1",
+            "https://drive.google.com/uc?export=view&id=1ufqk9x5q6-puBUziktjcbY_231cYUyi-",
         ]
         data_list = [
             {
@@ -961,8 +985,8 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Jatimulyo",
                 "hobbi": "BAB setiap jam 07.00 pagi",
                 "sosmed": "@yogyst",
-                "kesan": "Abangnya kocag, seru, baik",
-                "pesan": "semangat kuliahnya bang, tetap jadi orang baik",
+                "kesan": "Abangnya ramah, seru, baik",
+                "pesan": "Semangat terus bangg",
                 "jabatan" : "Kepala Departemen Eksternal", #1
             },
             {
@@ -973,8 +997,8 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Raja Basa",
                 "hobbi": "Jalan-jalan",
                 "sosmed": "@ramadhitaatifa",
-                "kesan": "Kakaknya humble",
-                "pesan": "Semangat kuliahnya kak", 
+                "kesan": "Kakaknya lucu plus humble",
+                "pesan": "Semangat kuliahnya kak Dhitaa", 
                 "jabatan" : "Sekretaris Departemen", # 1
             },
             {
@@ -986,20 +1010,20 @@ elif menu == "Departemen_Eksternal":
                 "hobbi": "Main Golf",
                 "sosmed": "nazwanbilla",
                 "kesan": "Ramah banget kakanya, banyak ketawa, seru",
-                "pesan": "semangat ya kak, tetaplah tertawa sebelum tertawa itu dilarang", 
+                "pesan": "Semangat terus kuliahnya kaakk", 
                 "jabatan" : "Kepala Divisi Hubungan Luar", # 1
             },
             {
                 "nama": "Bastian Heskia Silaban",
-                "nim": "121450",
-                "umur": "",
-                "asal": "",
-                "alamat": "",
-                "hobbi": "",
-                "sosmed": "",
-                "kesan": "Kakaknya ramahh, asik,baik",
-                "pesan": "semangat terus kuliahnya kakak, jangan mudah menyerah", 
-                "jabatan" : "", # 1
+                "nim": "122450130",
+                "umur": "21",
+                "asal": "Batam, Kep. Riau",
+                "alamat": "Belwis",
+                "hobbi": "Menggambar",
+                "sosmed": "@bastiansilaban_",
+                "kesan": "Abangnya baik, keren juga",
+                "pesan": "Semangat terus kuliahnya bang", 
+                "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
             {
                 "nama": "Dea Mutia Risani",
@@ -1009,11 +1033,10 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Berkebun",
                 "sosmed": " @deaa.rsn",
-                "kesan": "Kakaknya ramah, orangnya juga cantik",
-                "pesan": "semangat ya kuliahnya jangan putus asa orang sibuk", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 1
+                "kesan": "Kakak dea daplok kerennya cosval, baik banget terus lucu juga",
+                "pesan": "Semangat terus kuliahnya kak dee, jangan kapok jadi daplok kami ya kak", 
+                "jabatan" : "Staff Divisi Hubungan Luar",
             },
-
             {
                 "nama": "Esteria Rohanauli Sidauruk",
                 "nim": "122450025",
@@ -1022,9 +1045,9 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Belwis",
                 "hobbi": "Main golf bareng kadiv",
                 "sosmed": "@esteriars",
-                "kesan": "kakaknya pasti jago main golf",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan main golfnya", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 1
+                "kesan": "Kak ester baik, ramah jugaa",
+                "pesan": "Semangat kuliahnya kak Ester", 
+                "jabatan" : "Staff Divisi Hubungan Luar",
             },
             {
                 "nama": "Natasya Ega Lina Marbun",
@@ -1034,9 +1057,9 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Belwais",
                 "hobbi": "surfing",
                 "sosmed": " @nateee__15",
-                "kesan": "Manis banget kakaknya, ramah juga",
-                "pesan": "semangat kuliahnya kak, tetap baik hati kak", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 1
+                "kesan": "Manis banget kakaknya, ramah juga, dan terlihat sibuk sekali ya kak",
+                "pesan": "Semangat kuliah dan kesibukannya kak, sukses terus", 
+                "jabatan" : "Staff Divisi Hubungan Luar", 
             },
             {
                 "nama": "Novelia Adinda ",
@@ -1047,8 +1070,8 @@ elif menu == "Departemen_Eksternal":
                 "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
                 "kesan": "Kakaknya bener-bener cantik banget!",
-                "pesan": "semangat kuliahnya kak, semoga makin cantik", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 1
+                "pesan": "Semangat kuliahnya kak, sukses teruss", 
+                "jabatan" : "Staff Divisi Hubungan Luar", 
             },
             {
                 "nama": "Ratu Keisha Jasmine Deanova",
@@ -1058,9 +1081,9 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Way Kandis",
                 "hobbi": "Main Sepak takraw",
                 "sosmed": "@jasminednva",
-                "kesan": "MasyaAllah kak pertahankan hobinya",
-                "pesan": "Semangat kuliahnya, semoga semakin rajin mengerjakan tugas", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 1
+                "kesan": "Kak Mine baik banget, ramah dan seruu",
+                "pesan": "Semangat kuliahnya kak, sukses terus kakk ", 
+                "jabatan" : "Staff Divisi Hubungan Luar", 
             },
             {
                 "nama": "Tobias David Manogari",
@@ -1070,9 +1093,9 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Pemda",
                 "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
-                "kesan": "Abangnya baik, kalem, dan ramah",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 1
+                "kesan": "Abangnya baik, lucu, dan ramah",
+                "pesan": "Semangat kuliahnya bang, sukses terus kedepannya", 
+                "jabatan" : "Staff Divisi Hubungan Luar", 
             },
             {
                 "nama": "Yohana Manik",
@@ -1082,9 +1105,9 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Belwais",
                 "hobi": "Main Bowling",
                 "sosmed": " @yo_annamnk",
-                "kesan": "Kakaknya kelihatan aktif organisasi bangettt",
-                "pesan": "semangat kak", 
-                "jabatan" : "Staff Divisi Hubungan Luar", # 1
+                "kesan": "Kakaknya lucu, ramah dan seru banget",
+                "pesan": "Semangat kuliahnya kak, ayo ngobrol bareng lagi", 
+                "jabatan" : "Staff Divisi Hubungan Luar", 
             },
             {
                 "nama": " Rizky Adrian Bennovry",
@@ -1094,9 +1117,9 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "TVRI",
                 "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
-                "jabatan" : " Kepala Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Abangnya keren, keliatan kalem dan baik juga",
+                "pesan": "Semangat kuliahnya bang, semangat juga bikin portofolionya", 
+                "jabatan" : " Kepala Divisi Pengabdian Masyarakat", 
             },
             {
                 "nama": "Arafi Ramadhan Maulana",
@@ -1107,8 +1130,8 @@ elif menu == "Departemen_Eksternal":
                 "hobbi": "Bertani",
                 "sosmed": "@rafiramadhanmaulana",
                 "kesan": "Abangnya baik",
-                "pesan": "semangat kuliahnya bang, tetap pertahankan rajin sholat malamnya", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "pesan": "Semangat kuliahnya bang, sukses terus kedepannya", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", 
             },
             {
                 "nama": "Asa Do'a Uyi",
@@ -1118,9 +1141,9 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Korpri",
                 "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
-                "kesan": "Kakaknya baik",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Kakaknya baik dan ramah sekali",
+                "pesan": "Semangat kuliahnya kak, sukses terus", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat",
             },
             {
                 "nama": "Chalifia Wananda",
@@ -1130,9 +1153,9 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Quality Time",
                 "sosmed": "@chlfawww",
-                "kesan": "Kakaknya baik, dulu kakak asprak fisdas 1 aku juga",
-                "pesan": "semangat kuliahnya kak ochaa", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Kakaknya baik, ramah juga",
+                "pesan": "Semangat kuliahnya kakak", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", 
             },
             {
                 "nama": "Irvan Alfaritzi",
@@ -1142,9 +1165,9 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "WSukarame",
                 "hobbi": "Nonton Youtube, main game",
                 "sosmed": "@alfaritziirvan",
-                "kesan": "Abangnya baik",
-                "pesan": "semangat kuliahnya bang, tetap pertahankan rajin sholat malamnya", 
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Abangnya baik dan ramah",
+                "pesan": "Semangat kuliahnya bang, sukses terus", 
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat",
             },
             {
                 "nama": "Izza Lutfia",
@@ -1154,9 +1177,9 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Rubik",
                 "sosmed": "@izzalutfiaa",
-                "kesan": "kakaknya baik, aktif berorganisasi sekalii",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan aktifnya",
-                "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
+                "kesan": "Kakaknya baik, Keren juga, btw NIM kita sama kakkk",
+                "pesan": "Semangat kuliahnya kak, sukses terus",
+                "jabatan" : "Staff Divisi Pengabdian Masyarakat", 
             },
             {
                 "nama": "Khaalishah Zuhrah Alyss Vanefi",
@@ -1166,8 +1189,8 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Raja Basa",
                 "hobbi": "Mengaji",
                 "sosmed": "@alyaavanefi",
-                "kesan": "kakaknya baik",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin mengajinya", 
+                "kesan": "Kakaknya baik dan ramah",
+                "pesan": "Semangat kuliahnya kak, sukses teruss", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
             {
@@ -1178,8 +1201,8 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Nemenin Tobias lari",
                 "sosmed": "@rayth_",
-                "kesan": "Abangnya baik",
-                "pesan": "semangat kuliahnya bang", 
+                "kesan": "Abangnya keren, baik, dan ramah",
+                "pesan": "Semangat kuliahnya bang, sukses terus kedepannya", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
             {
@@ -1190,8 +1213,8 @@ elif menu == "Departemen_Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Baca Buku",
                 "sosmed": "@tria_y062",
-                "kesan": "kakaknya baik",
-                "pesan": "semangat kuliahnya kak", 
+                "kesan": "Kakaknya lucu, baik, dan ramah jugaa",
+                "pesan": "Semangat terus kuliahnya kak", 
                 "jabatan" : "Staff Divisi Pengabdian Masyarakat", # 1
             },
       ]
@@ -1203,18 +1226,18 @@ elif menu == "Departemen Internal":
 
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1z4KNhrONhRjOW0O7NkV0G5ciFa6L4KfH",
-            "https://drive.google.com/uc?export=view&id=186UwsiwWUsJB70dOD83yudRAHnKXJ5lC",
-            "https://drive.google.com/uc?export=view&id=1-LZ4ILmLr9y2TFTAgiajNkh_OlQhN0L-",
-            "https://drive.google.com/uc?export=view&id=15lFgjKPhdFyyZlhKPTEvhgZm6eHij6r6",
-            "https://drive.google.com/uc?export=view&id=1Y3wxWspI5TCJCT1-vjLAWllziuxdIpgm",
-            "https://drive.google.com/uc?export=view&id=1tCCvfMKRl83FJMngHHyNL_H_hhlOKLEo",
-            "https://drive.google.com/uc?export=view&id=1AuU4DZ9RRIWYQgo52orpZ12dApvceQI0",
-            "https://drive.google.com/uc?export=view&id=1qhTWCJucvbCMt4g06eP18Lx_ctXKx8CM",
-            "https://drive.google.com/uc?export=view&id=1C72Of0jPKjpvVKL0gfRR1rL5XDIxPeyt",
-            "https://drive.google.com/uc?expor t=view&id=1NbT2wquNDCI3rCgk6W9YLfflVRmg4TCs",
-            "https://drive.google.com/uc?export=view&id=1YQbi0yksyVIJKkHuBc2xMFzGgPamXlxA",
-            "https://drive.google.com/uc?expor t=view&id=1aWoW8foWIV2Q3GZEB3TVMTHPD_-6tvay",
+            "https://drive.google.com/uc?export=view&id=1TfZeVsGl6tYYLiKk6j-o-Bu0B67uTsXQ",
+            "https://drive.google.com/uc?export=view&id=1TNDWES8HUssZ2J1n_7NAtE3zNDSchXEB",
+            "https://drive.google.com/uc?export=view&id=1TBsCZDQEOSKg85o4jvYewsqGcI2GrOjU",
+            "https://drive.google.com/uc?export=view&id=1TlzO6MMk3lhiqNuk5Dy0UiHL1cAWsaj7",
+            "https://drive.google.com/uc?export=view&id=1T_5mzb-wxIfoI1WZMvSCkVCNsXuZ0nXN",
+            "https://drive.google.com/uc?export=view&id=1TJihL7EtXR1uULPlJvgR8Uj_XkGNVilC",
+            "https://drive.google.com/uc?export=view&id=1Tlernip1_gQZXd-7eMy6aYVMrzJLuwDs",
+            "https://drive.google.com/uc?export=view&id=1T2OkqoGhBThxLDx4UU5hrQKo_R_Laals",
+            "https://drive.google.com/uc?export=view&id=1T495J5k297WGhaazCCj0pAYGR0P-j71f",
+            "https://drive.google.com/uc?export=view&id=1TSr6srR24Ijl9yq8rWJgZCws-GqszZAx",
+            "https://drive.google.com/uc?export=view&id=1Tbb354jz2S8svTEm9Mceo902RyBUtXW3",
+            "https://drive.google.com/uc?export=view&id=1TcRgQiKkjjOuvq6CzOhWtVqNU0pHEq6r",
             
         ]
         data_list = [
@@ -1226,8 +1249,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Way Kandis (Kobam)",
                 "hobbi": "menunggu ayam jantan bertelur",
                 "sosmed": "@dimzrky_",
-                "kesan": "Keren banget bang, cara menjawab pertanyaanya bagus banget",
-                "pesan": "Selalu jadi orang yang rendah hati bang walaupun ntar udah sukses",
+                "kesan": "Keren banget bang Dimas, baik banget juga",
+                "pesan": "Sukses terus kuliahnya bang",
                 "jabatan" : "Kepala Departemen Internal", #1
             },
             {
@@ -1238,8 +1261,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Baca Novel",
                 "sosmed": "@cathrine.sinaga",
-                "kesan": "Baik sekali kakanya ramah banget juga",
-                "pesan": "Tetap jadi orang yang baik ya kak", 
+                "kesan": "Baik sekali kakaknya ramah juga",
+                "pesan": "Semangat kuliahnya kakak", 
                 "jabatan" : "Sekretaris Departemen Internal", # 1
             },
             {
@@ -1250,8 +1273,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Pasaruntung",
                 "hobbi": "Mengoleksi Dino",
                 "sosmed": "@akbar_restika",
-                "kesan": "Ramah banget bang",
-                "pesan": "Boleh minta satu gak bang dinonya", 
+                "kesan": "Abangnya lucu, ramah juga",
+                "pesan": "Semangat kuliahnya bang, kasih rekomen dino yang bagus dong bangg, mau jugaa", 
                 "jabatan" : "Kepala Divisi Keharmonisasian", # 1
             },
             {
@@ -1263,7 +1286,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Membaca dan Memancing",
                 "sosmed": "@renita.shn",
                 "kesan": "Baik dan kalem sekali kakanya",
-                "pesan": "Ajakin aku dong kak kalo mancing, tapi aku bisanya mancing amarah", 
+                "pesan": "Semangat kuliah dan mancingnya kakk", 
                 "jabatan" : "Staff Keharmonisasian", # 1
             },
             {
@@ -1274,8 +1297,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan",
                 "hobbi": "Nonton",
                 "sosmed": "@slwfhn_694",
-                "kesan": "Ramah kakaknya, cocok banget di keharmonisasian",
-                "pesan": "Sukses selalu dalam segala hal kak", 
+                "kesan": "Kakaknya lucuu ramah juga, keren pokoknya",
+                "pesan": "Sukses selalu kakk, semangat kuliahnya", 
                 "jabatan" : "Staff Keharmonisasian", # 1
             },
             {
@@ -1286,8 +1309,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Jl. Lapas Raya",
                 "hobbi": "Menulis lagu",
                 "sosmed": "@rendraepr",
-                "kesan": "Pinter abangnya",
-                "pesan": "Tetap pertahankan akademiknya bang", 
+                "kesan": "Abangnya keren, ramah juga",
+                "pesan": "Sukses terus bang, sering sering cover lagunya bangg", 
                 "jabatan" : "Staff Keharmonisasian", # 1
             },
             {
@@ -1298,8 +1321,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Perum Griya Indah",
                 "hobbi": "Nungguin ayam betina berkokok",
                 "sosmed": "@yosiabanurea",
-                "kesan": "Keren banget bang, selalu menjawa pertanyaan kami dengan baik",
-                "pesan": "Jangan lupa semangat bang", 
+                "kesan": "Keren banget abangnya",
+                "pesan": "Sukses kuliahnya bang", 
                 "jabatan" : "Staff Keharmonisasian", # 1
             },
             {
@@ -1310,8 +1333,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Labuhan Ratu",
                 "hobbi": "Futsal",
                 "sosmed": "@ari_sigit17",
-                "kesan": "Keren banget bang pasti jago main futsal",
-                "pesan": "Semangat bang menjalani hari-harinya yang walau terkadang berat", 
+                "kesan": "Abangnya keren, baik, dan ramahh",
+                "pesan": "Sukses terus kedepannya bang, Semangattt", 
                 "jabatan" : "Kepala Divisi Kerohanian", # 1
             },
             {
@@ -1323,7 +1346,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Ngejokes",
                 "sosmed": "@josuapanggabean_",
                 "kesan": "Baik dan ramah abangnya",
-                "pesan": "Beri aku satu jokes bang, aku ingin tertawa", 
+                "pesan": "Semangat kuliahnya bang", 
                 "jabatan" : "Staff Kerohanian", # 1
             },
             {
@@ -1335,7 +1358,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Berkebun",
                 "sosmed": "@azizahksma15",
                 "kesan": "Asik dan kalem kakaknya",
-                "pesan": "Bahagia selalu kak", 
+                "pesan": "Sukses terus kuliahnya kak", 
                 "jabatan" : "Staff Kerohanian", # 1
             },
              {
@@ -1347,7 +1370,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Nonton",
                 "sosmed": "@meiralsty_",
                 "kesan": "Kakaknya kalem dan baik",
-                "pesan": "Semoga kakak selalu diberi kesehatan", 
+                "pesan": "Semangat kuliahnya kak, sukses selalu", 
                 "jabatan" : "Staff Kerohanian", # 1
             },
              {
@@ -1358,8 +1381,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Kost Benawang",
                 "hobbi": "Berenang di Laut",
                 "sosmed": "@rexander",
-                "kesan": "Asik dan baik sekalii abang daplokku satu ini",
-                "pesan": "Semangat terus bang Rendi, jangan lupa bahagia", 
+                "kesan": "Abang daploknya cosval keren bangett, ramah juga",
+                "pesan": "Semangat terus bang Rendi, sukses kuliahnya", 
                 "jabatan" : "Staff Kerohanian", # 1
             },
 
@@ -1372,16 +1395,16 @@ elif menu == "Departemen SSD":
 
     def SSD():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1mMb9JSDLeze6qudPfMWPW-NV9msWGsqJ",
-            "https://drive.google.com/uc?export=view&id=1upOiVJBc1rED7sEfG1D4F11HfMWngLYt",
-            "https://drive.google.com/uc?export=view&id=16wNCsus9_2NvnVPrVMbhKiW28JeOIeMJ",
-            "https://drive.google.com/uc?export=view&id=1K0Rf227mUJSPTQHEAQQ0v_dfT8BQQ4LG",
-            "https://drive.google.com/uc?export=view&id=1V26dD6Iu9vIUI7Z7hHsJruGQ6_jDOTMi",
-            "https://drive.google.com/uc?export=view&id=1HwfBhKOuUAEM6FXpFlw3L5lGxOhltl0I",
-            "https://drive.google.com/uc?export=view&id=1wgJcptKnbItQU-yTBKr5htnR2Gvxn3bv",
-            "https://drive.google.com/uc?export=view&id=17os67zDHkdGPiJcB-Tyxp9TV-w9wapXs",
-            "https://drive.google.com/uc?export=view&id=1sW_X0feS-ma29FaXvDCgP21MwbQTjSMY",
-            "https://drive.google.com/uc?export=view&id=1e40AFoEiOV_eMRiTWk2feDqbJBJGLHWF",
+            "https://drive.google.com/uc?export=view&id=1a0Uorey9KO991gciyWFY6auEuhC_4RLK",
+            "https://drive.google.com/uc?export=view&id=1aGBRFQL4e7x2TI3bx2E34j1BRFxpZK4D",
+            "https://drive.google.com/uc?export=view&id=1aV9iluNmiynGUNRK_V6MzLxeDBCr4BXf",
+            "https://drive.google.com/uc?export=view&id=1aFfCtSAmwoPvm02M9Lk6CjeKMPQSbOn5",
+            "https://drive.google.com/uc?export=view&id=1_rhvnr-dR-AP7ZxXU6s_kXtk8qx-Cpam",
+            "https://drive.google.com/uc?export=view&id=1_q2ho55NY5fH0MOCoFO4sEt_o04i6yqB",
+            "https://drive.google.com/uc?export=view&id=1aWh40kMFYXg2f8iXyGDkHI8dBoMu8sEm",
+            "https://drive.google.com/uc?export=view&id=1_x_YMI4rJKoit144ns5mmiUuXxOApetQ",
+            "https://drive.google.com/uc?export=view&id=1_tTqfS1l5xeqyzGhidTQqYMtSx5aOlXy",
+            "https://drive.google.com/uc?export=view&id=1a0Qg_Fljff8av3Y76azICXX5WHIaRfRI",
             
         ]
         data_list = [
@@ -1393,8 +1416,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Bel",
                 "hobbi": "Mencari Uang",
                 "sosmed": "@andriangaol",
-                "kesan": "Keren banget abangnya sangat berambisi mencari uang",
-                "pesan": "Semoga makin banyak uang bang",
+                "kesan": "Keren banget abangnya",
+                "pesan": "Semangat terus bang, sukses kuliahnya",
                 "jabatan" : "Kepala Departemen SSD", #1
             },
             {
@@ -1405,8 +1428,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton Film",
                 "sosmed": "@adistysa_",
-                "kesan": "Kakaknya asal dari Metro sama kayak aku",
-                "pesan": "Semangat kak, semoga makin banyak uang", 
+                "kesan": "Kakaknya cantik, keren juga",
+                "pesan": "Semangat terus kak, semoga lancar kuliahnya", 
                 "jabatan" : "Sekretaris Departemen SSD", # 1
             },
             {
@@ -1417,8 +1440,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Menghitung Uang",
                 "sosmed": "@zhjung",
-                "kesan": "Keren banget kakaknya jago ngitung uang",
-                "pesan": "Semangat kak menghitung uangnya", 
+                "kesan": "Kakaknya keren, lucu juga terus jago ngitung uang",
+                "pesan": "Semangat kuliahnya kak", 
                 "jabatan" : "Kepala Divisi KWU", # 1
             },
             {
@@ -1429,8 +1452,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Touring",
                 "sosmed": "@dananghk_",
-                "kesan": "Sering ketemu abangnya, produktif banget ya bang",
-                "pesan": "Semangat bang walaupun produktif jangan lupa jaga kesehatan", 
+                "kesan": "Abangnya keren, brandingnya jagoo",
+                "pesan": "Semangat bang sukses terus kedepannya", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -1441,8 +1464,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Lapas",
                 "hobbi": "Bebas",
                 "sosmed": "@farel_julio",
-                "kesan": "Keren abangnya asik juga",
-                "pesan": "Semangat bang", 
+                "kesan": "Keren abangnya asik juga dan brandingnya keren sama seperti bang Danang",
+                "pesan": "Semangat bang sukses terus kedepannya", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -1453,8 +1476,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan 1",
                 "hobbi": "Badminton",
                 "sosmed": "@ahmad.ris45",
-                "kesan": "Abangnya rapih banget, suka",
-                "pesan": "Semangat terus bang kuliahnya", 
+                "kesan": "Abangnya keren, keliatan aktif kepanitiaan juga",
+                "pesan": "Semangat bang kuliahnya, sukses terus", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -1466,7 +1489,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Menulis",
                 "sosmed": "@tesakanias",
                 "kesan": "Kakaknya manis banget dan juga humble",
-                "pesan": "Semangat kak kuliahnya, tetap semangatt", 
+                "pesan": "Semangat kak kuliahnya, sukses terus", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -1477,8 +1500,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Kedaton",
                 "hobbi": "Tidur",
                 "sosmed": "@nabilahanftr",
-                "kesan": "Keren kak jadi kepala sponsor",
-                "pesan": "Semoga kerennya nular ke aku ya kak", 
+                "kesan": "Kakaknya keren banget",
+                "pesan": "Semoga kerennya nular ya kak, sukses terus kak", 
                 "jabatan" : "Kepala Divisi Sponsor", # 1
             },
             {
@@ -1490,7 +1513,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Main Alat Musik",
                 "sosmed": "@meylanielia",
                 "kesan": "Kakaknya manis banget dan asikk",
-                "pesan": "Semangat kuliahnya kak, tetap jadi orang baik", 
+                "pesan": "Semangat kuliahnya kak, sukses terus", 
                 "jabatan" : "Staff sponsor", # 1
             },
             {
@@ -1501,8 +1524,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Nangkal",
                 "hobbi": " Olahraga",
                 "sosmed": "@dhafinrzqa13",
-                "kesan": "Abangnya kalem banget",
-                "pesan": "Semangat bang kuliahnya", 
+                "kesan": "Abangnya keren dan kalem banget",
+                "pesan": "Semangat bang kuliahnya, sukses terus", 
                 "jabatan" : "Staff sponsor", # 1
             },
            
@@ -1513,29 +1536,29 @@ elif menu == "Departemen SSD":
 
     SSD()
 
-elif menu == "MedKraf":
+elif menu == "Departemen MedKraf":
 
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1dLevJN__yKeNDLhxMh3WdDAss98PBgnD",
-            "https://drive.google.com/uc?export=view&id=1t10zFtR3pAukNaSYcpS3wRws-64Dxxj3",
-            "https://drive.google.com/uc?export=view&id=1scrWn9MzuC2gCkt99tMdRtlVuQh7wl25",
-            "https://drive.google.com/uc?export=view&id=1_FidCGCCXGLgFbY8gDY4170STjrFFlXl",
-            "https://drive.google.com/uc?export=view&id=1mdvkfsYJ8WLZ6QSfP2ZfBIAo4FJiD8hf",
-            "https://drive.google.com/uc?export=view&id=1L_-NCwykbCnGE64ycYlxXYpLGeQF91m9",
-            "https://drive.google.com/uc?export=view&id=1FPcW3xij4NQdMnQSk5NRarz-9sQogcg1",
-            "https://drive.google.com/uc?export=view&id=12fQY3aieQJFXhQlN9ryJg4-0IQlGwyTH",
-            "https://drive.google.com/uc?export=view&id=1zG9d9PrnMvMcpKsBH8vQxHxL5MOsdHh",
-            "https://drive.google.com/uc?export=view&id=1POdKZLiuP3MEPtIsGHd3x8mBZ-GWrVLt",
-            "https://drive.google.com/uc?export=view&id=1XSvnTFVBD0k5IjFT2sD-ObQRDaEpB_LQ",
-            "https://drive.google.com/uc?export=view&id=13QUBn-PBhnCqX9kzAuhTWxgS_CdcUjOi",
-            "https://drive.google.com/uc?export=view&id=1l_3a7dIzcaDnfZUqdEdJW_EXApuSWgCy",
-            "https://drive.google.com/uc?export=view&id=1nED8Efxr47wOyxQMQArv0DPyExuaZBJn",
-            "https://drive.google.com/uc?export=view&id=1gBTwdeOa8BB94BAcqpy8FdC8Mag7pvdY",
-            "https://drive.google.com/uc?export=view&id=1vwfdR3MBxM0neon0ZFWZpxmpIsSqSZUC",
-            "https://drive.google.com/uc?export=view&id=1XaCYi_G8nbdNPd6ItNpnIEQbSq4pDzac",
-            "https://drive.google.com/uc?export=view&id=1aPkfEWqZvt6J8_SwFWNoRyrso1O8_J-O",
-            "https://drive.google.com/uc?export=view&id=13ENqy-WDdx7_WTBMn2vGKikJsd3zXXLD",
+            "https://drive.google.com/uc?export=view&id=1dEtDG2bb_aEJCWkjJOxzL7dI6L6ZaFwA",
+            "https://drive.google.com/uc?export=view&id=1dKsSlxpvswpYAiMONtNmCmayZYQfMWzT",
+            "https://drive.google.com/uc?export=view&id=1e-Vx_28BPJZ6ovfNQAAUwmaTXaSdFSKQ",
+            "https://drive.google.com/uc?export=view&id=1dkzDPZbLAM0cDF38xJywcNkh4D5OIvcv",
+            "https://drive.google.com/uc?export=view&id=1dsRp-s-x4sOAm-XKmO9viPqGCkHEKuEI",
+            "https://drive.google.com/uc?export=view&id=1dUQGN63zQzuyvdhBtKRS11qRl_yhgg1j",
+            "https://drive.google.com/uc?export=view&id=1dbdZGtj6JjB-jIdhpADtG9o6zRQQZmRU",
+            "https://drive.google.com/uc?export=view&id=1dGTiPuzu7nE-lPiLuKTt5-bEQEljqcBg",
+            "https://drive.google.com/uc?export=view&id=1drga09s0Sf1nXmhV3rhmvZLII7RSiHhx",
+            "https://drive.google.com/uc?export=view&id=1dXBvSAlmplfz5TNu3uHXnTS_thCTOKs4",
+            "https://drive.google.com/uc?export=view&id=1dNDFAUPBN5R08N6I12rTgaL3O0zdX-9E",
+            "https://drive.google.com/uc?export=view&id=1ddkkpNoeazQlpmEjmmrtlgO4GgxUAHHh",
+            "https://drive.google.com/uc?export=view&id=1dhcpQJcC_DPOQyq94I9oZIzt49c3JCBW",
+            "https://drive.google.com/uc?export=view&id=1dwjnMYFhYZ7QBnUrIlH30pYgydo0oQhN",
+            "https://drive.google.com/uc?export=view&id=1dfql2nF6u03F45hIHkPKCeu5gZuI4B5-",
+            "https://drive.google.com/uc?export=view&id=1dxEgKxx5eaB7zJNcUF0DxgOy2xMIPloZ",
+            "https://drive.google.com/uc?export=view&id=1datETYT3jx184AWR5tdonBFHh-T7aiMx",
+            "https://drive.google.com/uc?export=view&id=1dYNsExh0DvlNY-12CZ3ACyheIyAdaZSS",
+            "https://drive.google.com/uc?export=view&id=1dqP3OhGgBk2z7q5xs2_aggwIlEgyiktR",
         ]
         data_list = [
             {
@@ -1546,8 +1569,8 @@ elif menu == "MedKraf":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
                 "sosmed": "",
-                "kesan": "Abangnya asik dana kece",
-                "pesan": "Semangat kuliahnya bang, tetap fokus",
+                "kesan": "Abangnya asik, kece banget juga",
+                "pesan": "Semangat kuliahnya bang, sukses terus",
                 "jabatan" : "Kepala Departemen", #1
             },
             {
@@ -1558,8 +1581,8 @@ elif menu == "MedKraf":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Editing",
                 "sosmed": "@elokfiola",
-                "kesan": "Manis bangett kakk, NIM nya sama kayak aku hihi",
-                "pesan": "Semangat ya kak, tetap ramah", 
+                "kesan": "Manis bangett kakaknya, keren jugaa",
+                "pesan": "Semangat terus kakakk, sukses kuliahnya", 
                 "jabatan" : "Sekretaris", # 1
             },
             {
@@ -1570,7 +1593,7 @@ elif menu == "MedKraf":
                 "alamat": "Tanjung Senang",
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
-                "kesan": "Kakaknya baik, pertanyaanku semua terjawab",
+                "kesan": "Kakaknya baik, keren dan ramah juga",
                 "pesan": "Sehat selalu kak", 
                 "jabatan" : "Kepala Divisi Media & Konten", # 1
             },
@@ -1583,7 +1606,7 @@ elif menu == "MedKraf":
                 "hobbi": "Lagi Nyari",
                 "sosmed": " @dino_kiper",
                 "kesan": "Abangnya asik dan kece",
-                "pesan": "Keren banget bang", 
+                "pesan": "Semangat terus bang, sukses kuliahnya", 
                 "jabatan" : "Kepala Divisi PDD", # 1
             },
             {
@@ -1594,8 +1617,8 @@ elif menu == "MedKraf":
                 "alamat": "Nangka 4",
                 "hobbi": "Ngoding",
                 "sosmed": "@arsal.utama",
-                "kesan": "Keren abangnya pasti jago ngoding",
-                "pesan": "Semangat bang ngodingnya", 
+                "kesan": "Abangnya keren, pasti portofolionya keren jugaa",
+                "pesan": "Semangat kuliahnya bang, sukses selalu", 
                 "jabatan" : "Kepala Divisi Visual Desain", # 1
             },
             {
@@ -1606,8 +1629,8 @@ elif menu == "MedKraf":
                 "alamat": "Teluk",
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
-                "kesan": "Suka banget sama outfit kakak, cocok banget di divisi media & konten",
-                "pesan": "Lancar terus kuliahnya kak", 
+                "kesan": "Kakaknya cantik banget, keren banget juga",
+                "pesan": "Semangat kuliahnya kakk", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1618,8 +1641,8 @@ elif menu == "MedKraf":
                 "alamat": "Natar, Lampung Selatan",
                 "hobbi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
-                "kesan": "Kakaknya keliatan rajin organisasi",
-                "pesan": "Jangan lupa istirahat kak", 
+                "kesan": "Kakaknya cantik, keren juga",
+                "pesan": "Sukses terus kak", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1631,7 +1654,7 @@ elif menu == "MedKraf":
                 "hobbi": "Menulis, Membaca, fangirling",
                 "sosmed": "@nanana_minjoo",
                 "kesan": "Keren banget kakaknya",
-                "pesan": "Jangan lupa istirahat kak", 
+                "pesan": "Semangat kuliahnya kakak", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1642,8 +1665,8 @@ elif menu == "MedKraf":
                 "alamat": "Jatimulyo",
                 "hobbi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
-                "kesan": "Lucu asik banget kakaknya",
-                "pesan": "Jaga kesehatan kak", 
+                "kesan": "Kak cia lucu bangett keren jugaa",
+                "pesan": "Semangan kuliahnya kak ciaa", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1654,8 +1677,8 @@ elif menu == "MedKraf":
                 "alamat": "Sukarame",
                 "hobbi": "Baca Coding",
                 "sosmed": "@rahmanellyana",
-                "kesan": "Keren banget kak, pasti jago ngoding",
-                "pesan": "Ajarin aku ngoding dong kak", 
+                "kesan": "Kakaknya kerenn, ramah banget",
+                "pesan": "Sukses terus kakk", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1667,7 +1690,7 @@ elif menu == "MedKraf":
                 "hobbi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
                 "kesan": "Baik banget kakaknya",
-                "pesan": "Ayo kak nonton bareng", 
+                "pesan": "Semangat kuliahnya kak", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -1679,7 +1702,7 @@ elif menu == "MedKraf":
                 "hobbi": "",
                 "sosmed": "@dwiratnn_",
                 "kesan": "Kakaknya kalem banget dan baik hati ",
-                "pesan": "Semangat kak dan bahagia terus ya", 
+                "pesan": "Semangat kak dan sukses selalu", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
             {
@@ -1690,8 +1713,8 @@ elif menu == "MedKraf":
                 "alamat": "Lapangan Golf UIN",
                 "hobbi": "Baca Komik",
                 "sosmed": "@jimnn.as",
-                "kesan": "Baik abangnya",
-                "pesan": "Ajarin aku foto foto dong kak", 
+                "kesan": "Abangnya baik dan keren juga",
+                "pesan": "Boleh dong bang berbagi ilmu fotografinya", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
             {
@@ -1702,8 +1725,8 @@ elif menu == "MedKraf":
                 "alamat": "Jalan Durian 1 Pemda",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@nsywanaf",
-                "kesan": "kakaknya baik dan ramah",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan jadi orang baiknya", 
+                "kesan": "Kakaknya baik dan ramah",
+                "pesan": "Semangat kuliahnya kak, sukses selalu", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
             {
@@ -1718,7 +1741,7 @@ elif menu == "MedKraf":
                 "pesan": "Semangat kuliahnya bang", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
-             {
+            {
                 "nama": "Akmal Faiz Abdillah",
                 "nim": "122450114",
                 "umur": "20",
@@ -1727,10 +1750,10 @@ elif menu == "MedKraf":
                 "hobbi": "Main HP",
                 "sosmed": "@_akmal.faiz",
                 "kesan": "Abangnya keren dan asik",
-                "pesan": "Semangat bang, jaga kesehatan", 
+                "pesan": "Semangat bang, sukses selalu", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
-             {
+            {
                 "nama": "Hermawan Manurung ",
                 "nim": "122450069",
                 "umur": "20",
@@ -1738,11 +1761,11 @@ elif menu == "MedKraf":
                 "alamat": "Dekat Jalan Tol (Wisma Hana Hani) ",
                 "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
-                "kesan": "Rajin banget abangnya hobi membaca buku",
-                "pesan": "Semangat kuliahnya bang, tetap baik hati", 
+                "kesan": "Abangnya keren banget dan sangat humble",
+                "pesan": "Semangat kuliahnya bang, semoga isi linkedinnya nular bangg", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
-             {
+            {
                 "nama": "Khusnun Nisa",
                 "nim": "122450078",
                 "umur": "20",
@@ -1750,11 +1773,11 @@ elif menu == "MedKraf":
                 "alamat": "Belwis",
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
-                "kesan": "Kakaknya kelihatan rajin dan sekaliii",
-                "pesan": "Sehat selalu kak", 
+                "kesan": "Kakaknya rajin dan ramah sekaliii",
+                "pesan": "Semangat kuliahnya kak, sehat selalu", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
-             {
+            {
                 "nama": "Priska Silvia Ferantiana",
                 "nim": "122450053",
                 "umur": "20",
@@ -1763,7 +1786,7 @@ elif menu == "MedKraf":
                 "hobbi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
                 "kesan": "Kakaknya asik banget",
-                "pesan": "Jangan lupa bahagia kak", 
+                "pesan": "Sukses terus kedepannya kak", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
 

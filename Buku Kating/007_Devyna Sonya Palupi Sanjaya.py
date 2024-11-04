@@ -7,7 +7,7 @@ from io import BytesIO
 st.markdown("""<style>.centered-title {text-align: center;}</style>""", unsafe_allow_html=True)
 st.markdown("<h1 class='centered-title'>BUKU KATING</h1>", unsafe_allow_html=True)
 
-
+ 
 # bagian sini jangan diubah
 def streamlit_menu():
     selected = option_menu(
@@ -179,7 +179,7 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Nadilla Andhara Putri",
-                "nim": "1214500030",
+                "nim": "121450003",
                 "umur": "21",
                 "asal": "Metro",
                 "alamat": "Kota Baru",
@@ -253,7 +253,7 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Anisa Dini Amalia",
-                "nim": "121450021",
+                "nim": "121450081",
                 "umur": "20",
                 "asal": "Tangerang",
                 "alamat": "Jati Agung",
@@ -1238,7 +1238,7 @@ elif menu == "Departemen PSDA":
             },
              {
                 "nama": "M. Deriansyah Okutra",
-                "nim": "122450051",
+                "nim": "122450101",
                 "umur": "19",
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",

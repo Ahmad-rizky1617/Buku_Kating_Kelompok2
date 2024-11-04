@@ -96,7 +96,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
-            st.write("  ")
+            st.write(f"Jabatan: {data_list[i]['jabatan']}")
     st.write("Semua gambar telah dimuat!")
 
 
@@ -846,7 +846,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": " Nisrina Nur Afifah",
-                "nim": "122450033",
+                "nim": "122450052",
                 "umur": "19",
                 "asal": "Bekasi",
                 "alamat": "Sukarame",
@@ -966,7 +966,7 @@ elif menu == "Departemen PSDA":
             },
              {
                 "nama": "M. Deriansyah Okutra",
-                "nim": "122450051",
+                "nim": "122450101",
                 "umur": "19",
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",

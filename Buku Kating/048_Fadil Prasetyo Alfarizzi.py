@@ -116,8 +116,8 @@ if menu == "Kesekjenan":
                 "alamat": "Way Kandis",
                 "hobbi": "Denger Musik",
                 "sosmed": "@gumilangtkharisma",
-                "kesan": "berwibawa bangett",
-                "pesan": "Semoga cepat lulus bang",
+                "kesan": "aura pemimpinnya terlihat",
+                "pesan": "Semoga cita-citanya dihimpunan segera tercapai",
                 "jabatan" : "Ketua himpunan",  # 1
             },
             {
@@ -153,7 +153,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Main gitar",
                 "sosmed": "@nadillaandr26",
                 "kesan": "Abangnya keren public speakingnya",
-                "pesan": "semangat bang kuliahnya, jangan patah semangat", 
+                "pesan": "semangat bang nyanyinya", 
                 "jabatan" : "Sekretaris Jendral", # 1
             },
             {
@@ -164,8 +164,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin Pandra Gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kakaknya keliatan pintar",
-                "pesan": "semangat kak kuliahnya, dan tidak mudah menyerah", 
+                "kesan": "Kakaknya keliatan pintar dan baik",
+                "pesan": "semangat kak dengerin bang pandra nyanyi", 
                 "jabatan" : "Sekretaris 1", # 1
             },
             {
@@ -216,8 +216,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Tanya sama GPT",
                 "sosmed": "@trimurniaa",
-                "kesan": "Kakaknya cantik, ramah, baik",
-                "pesan": "semangat kuliahnya kakak, tetap jadi orang baik",
+                "kesan": "Kakaknya cantik",
+                "pesan": "semangat kuliahnya kakak, tetap jadi pemimpin baik",
                 "jabatan" : "Ketua Badan Legislatif", #1
             },
             {
@@ -228,7 +228,7 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi": "Puasa Senin Kamis",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Baik banget kakaknya, sgt humble",
+                "kesan": "Baik banget kakaknya, lucu",
                 "pesan": "Semangat kuliahnya kak", 
                 "jabatan" : "Sekretaris", # 1
             },
@@ -300,8 +300,8 @@ elif menu == "Baleg":
                 "alamat": "Belwis",
                 "hobbi": "Sholat Dhuha",
                 "sosmed": "@fer_yulius",
-                "kesan": "Abangnya sepertinya famous yah",
-                "pesan": "semangat kuliahnya kak, semoga lulus tepat waktu", 
+                "kesan": "Abangnya sepertinya terkenal yah",
+                "pesan": "semangat kuliahnya kak,  ngaspraknya juga", 
                 "jabatan" : "Anggota Komisi 1 Legislatif", # 1
             },
             {
@@ -360,8 +360,8 @@ elif menu == "Baleg":
                 "alamat": "Bilabong",
                 "hobbi": "Cerita",
                 "sosmed": "@jeremia_s_",
-                "kesan": "Sangat merangkul",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Sangat mendengarkan keluh kesah",
+                "pesan": "semangat kuliahnya kak, semangat ngaspraknya", 
                 "jabatan" : " Anggota Komisi 3 Legislatif", # 1
             },
              
@@ -405,9 +405,9 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
                 "sosmed": "",
-                "kesan": "",
-                "pesan": "",
-                "jabatan" : "", #1
+                "kesan": "abangnya terlihat sangat berpengalaman",
+                "pesan": "Semangat kerjanya bang",
+                "jabatan" : "Kepala Departemen Medkraf", #1
             },
             {
                 "nama": "Elok Fiola",
@@ -417,8 +417,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Bandar Lampung",
                 "hobbi": "Editing",
                 "sosmed": "@elokfiola",
-                "kesan": "Manis bangett kakk, NIM nya sama kayak aku hihi",
-                "pesan": "Semangat ya kak, tetap ramah", 
+                "kesan": "baik kak",
+                "pesan": "tetap ramah", 
                 "jabatan" : "Sekretaris", # 1
             },
             {
@@ -429,8 +429,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Tanjung Senang",
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "baik banget kak",
+                "pesan": "Semangat kuliahnya", 
                 "jabatan" : "Kepala Divisi Media & Konten", # 1
             },
             {
@@ -441,8 +441,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Pulau Damar",
                 "hobbi": "Lagi Nyari",
                 "sosmed": " @dino_kiper",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "kece banget",
+                "pesan": "Semangat bang kerjanya", 
                 "jabatan" : "Kepala Divisi PDD", # 1
             },
             {
@@ -453,8 +453,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Nangka 4",
                 "hobbi": "Ngoding",
                 "sosmed": "@arsal.utama",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "keren banget kak",
+                "pesan": "Semangat ngodingnya", 
                 "jabatan" : "Kepala Divisi Visual Desain", # 1
             },
             {
@@ -465,8 +465,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Teluk",
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
-                "kesan": "Suka banget sama outfit kakak, cocok banget di divisi media & konten",
-                "pesan": "", 
+                "kesan": "Konten banget",
+                "pesan": "semangat bikin ide kontennya", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -477,8 +477,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Natar, Lampung Selatan",
                 "hobbi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "kece",
+                "pesan": "Semangat kak", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -489,8 +489,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Airan",
                 "hobbi": "Menulis, Membaca, fangirling",
                 "sosmed": "@nanana_minjoo",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "keren",
+                "pesan": "Semangat ngontennya", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -501,8 +501,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Jatimulyo",
                 "hobbi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "akamsi pride",
+                "pesan": "Semangat ldrnya kak", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -513,8 +513,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Sukarame",
                 "hobbi": "Baca Coding",
                 "sosmed": "@rahmanellyana",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "Lucu",
+                "pesan": "Selalu jadi daplok yang baik bagi markov ya kak", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -525,8 +525,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Korpri",
                 "hobbi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "keren",
+                "pesan": "Semangat kak", 
                 "jabatan" : "Anggota Divisi Media & Konten", # 1
             },
             {
@@ -537,8 +537,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Lapangan Golf UIN",
                 "hobbi": "Baca Komik",
                 "sosmed": "@jimnn.as",
-                "kesan": "",
-                "pesan": "Ramahh banget kak Dheaa", 
+                "kesan": "Sangat berpengetahuan",
+                "pesan": "Semangat bang nugasnya", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
             {
@@ -561,8 +561,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Rajabasa, Labuhan Dalam",
                 "hobbi": "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "Keren knowledge abangnya",
+                "pesan": "Semangat desainnya bang", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
              {
@@ -573,8 +573,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Perumahan Griya Sukarame",
                 "hobbi": "Main HP",
                 "sosmed": "@_akmal.faiz",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "Asprakku",
+                "pesan": "Semangat ngaspraknya bang", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
              {
@@ -585,8 +585,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Dekat Jalan Tol (Wisma Hana Hani) ",
                 "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "Merangkul banget",
+                "pesan": "Maaf ya bang ga masuk desain :)", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
              {
@@ -597,8 +597,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "",
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "Terlihat profesional",
+                "pesan": "semangat figmanya", 
                 "jabatan" : "Anggota Divisi Visual Desain", # 1
             },
              {
@@ -609,8 +609,8 @@ elif menu == "Departemen MedKraf":
                 "alamat": "Jalan Nangka 2",
                 "hobbi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
-                "kesan": "",
-                "pesan": "", 
+                "kesan": "terlihat berpengalaman",
+                "pesan": "Semangat dokumnya", 
                 "jabatan" : "Anggota Divisi PDD", # 1
             },
         ]
@@ -642,8 +642,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Bel",
                 "hobbi": "Mencari Uang",
                 "sosmed": "@andriangaol",
-                "kesan": "Keren banget abangnya sangat berambisi mencari uang",
-                "pesan": "Semoga makin banyak uang bang",
+                "kesan": "Bisnismen banget",
+                "pesan": "Sukses terus bang pitchingnya",
                 "jabatan" : "Kepala Departemen SSD", #1
             },
             {
@@ -666,8 +666,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Menghitung Uang",
                 "sosmed": "@zhjung",
-                "kesan": "Keren banget kakaknya jago ngitung uang",
-                "pesan": "Semangat kak menghitung uangnya", 
+                "kesan": "Lucuu pake topi",
+                "pesan": "Semangat kaka usahanya", 
                 "jabatan" : "Kepala Divisi KWU", # 1
             },
             {
@@ -678,8 +678,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Touring",
                 "sosmed": "@dananghk_",
-                "kesan": "Sering ketemu abangnya, produktif banget ya bang",
-                "pesan": "Semangat bang walaupun produktif jangan lupa jaga kesehatan", 
+                "kesan": "Asprak awak",
+                "pesan": "Semangat ngaspraknya bang, bismillah nilai A", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -690,8 +690,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Lapas",
                 "hobbi": "Bebas",
                 "sosmed": "@farel_julio",
-                "kesan": "Keren abangnya asik juga",
-                "pesan": "Semangat bang", 
+                "kesan": "keren parah ngerangkulnya",
+                "pesan": "Semangat capoku", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -702,8 +702,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan 1",
                 "hobbi": "Badminton",
                 "sosmed": "@ahmad.ris45",
-                "kesan": "Abangnya rapih banget, suka",
-                "pesan": "Semangat terus bang kuliahnya", 
+                "kesan": "Namanya sama kek cakahim",
+                "pesan": "Semangat abang", 
                 "jabatan" : "Staff KWU", # 1
             },
             {
@@ -727,7 +727,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Tidur",
                 "sosmed": "@nabilahanftr",
                 "kesan": "Keren kak jadi kepala sponsor",
-                "pesan": "Semoga kerennya nular ke aku ya kak", 
+                "pesan": "Semangat pitchingnya", 
                 "jabatan" : "Kepala Divisi Sponsor", # 1
             },
             {
@@ -738,7 +738,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi": "Main Alat Musik",
                 "sosmed": "@meylanielia",
-                "kesan": "Kakaknya manis banget dan asikk",
+                "kesan": "keren",
                 "pesan": "Semangat kuliahnya kak, tetap jadi orang baik", 
                 "jabatan" : "Staff sponsor", # 1
             },
@@ -795,8 +795,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Khobam",
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "Keren banget bang",
-                "pesan": "Semangat bang, semoga aku bisa keren kayak abang",
+                "kesan": "Keren banget pengalamannya banyak",
+                "pesan": "Lanjutkan organisasinya",
                 "jabatan" : "Kepala Departemen PSDA", #1
             },
             {
@@ -807,8 +807,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kemiling",
                 "hobbi": "Bernafas",
                 "sosmed": "@celisabethh_",
-                "kesan": "Asik banget kakanya, lucu juga",
-                "pesan": "Semangat kuliahnya kak, jangan lupa istirahat", 
+                "kesan": "Asik banget",
+                "pesan": "Langgeng terus kak", 
                 "jabatan" : "Sekretaris Departemen PSDA", # 1
             },
             {
@@ -819,8 +819,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Pulau Damar",
                 "hobbi": "Belajar",
                 "sosmed": "@depanloo",
-                "kesan": "Abangnya kelihatan berbakat sekali",
-                "pesan": "Semangat bang jangan lupa istirahat", 
+                "kesan": "Abangda basketku",
+                "pesan": "Selalu rangkul kami ya bang", 
                 "jabatan" : "Kepala Divisi Manjakat", # 1
             },
             {
@@ -832,7 +832,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Muter - Muter",
                 "sosmed": "@afifahhnsrn",
                 "kesan": "Kakaknya tegas",
-                "pesan": "Jangan lupa istirahat kak, jaga kesehatan", 
+                "pesan": "Lancar terus kak acaranya", 
                 "jabatan" : "Kepala Divisi Kaderisasi", # 1
             },
             {
@@ -843,8 +843,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kota Baru",
                 "hobbi": "Menolong",
                 "sosmed": "@mfarhan.ath",
-                "kesan": "Keren bang sangat memotivasi kami",
-                "pesan": "Selalu jadi orang baik yang rajin menolong", 
+                "kesan": "keren banget perencanaannya",
+                "pesan": "Selalu wadahi kami ya bang", 
                 "jabatan" : "Kepala Divisi Olahraga dan Perlombaan", # 1
             },
             {
@@ -855,8 +855,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "JL. Lapas",
                 "hobbi": "Ngasprak",
                 "sosmed": "@johanneskrisjnnn",
-                "kesan": "Keren bang",
-                "pesan": "Semoga semakin rajin ngaspraknya bang", 
+                "kesan": "Abangda basketku #2",
+                "pesan": "Gass terus basketnya bang", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
             {
@@ -867,8 +867,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kojo",
                 "hobbi": "Main game",
                 "sosmed": "@kemasverii",
-                "kesan": "Abangnya keliatan gamers ternyata memang hobi main game",
-                "pesan": "Semakin rajin ya bang belajarnya", 
+                "kesan": "Abangnya keliatan gamers",
+                "pesan": "Semangat terus bang ngodingnya", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
             {
@@ -879,8 +879,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kota Baru",
                 "hobbi": "Dengerin Lomba Sihir",
                 "sosmed": "@presiliamg",
-                "kesan": "Music taste nya bagus kak",
-                "pesan": "Semangat belajarnya kak, semoga akademiknya emakin meningkat ", 
+                "kesan": "so pretty",
+                "pesan": "Semangat ya kak ngaspraknya", 
                 "jabatan" : " Bendahara Divisi Manajemen Minat dan Bakat", # 1
             },
             {
@@ -891,8 +891,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Belwis",
                 "hobbi": "Baca Webtoon",
                 "sosmed": "@rafaaqilla",
-                "kesan": "Baik kakaknya, ramah jugaa",
-                "pesan": "Semangat kak kuliahnya, sukses selalu", 
+                "kesan": "kakaknya softspoken",
+                "pesan": "Semangat kaka", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
             {
@@ -903,8 +903,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Airan Raya",
                 "hobbi": "Nonton Jagad review",
                 "sosmed": "@sahid_maulana",
-                "kesan": "Abangnya baik ramah suaranya bagus",
-                "pesan": "Semangat kuliahnya bang,bahagia dan sukses selalu", 
+                "kesan": "Abangnya terlihat interested",
+                "pesan": "Next time saya ajak abang ya kalo ada debat inggris hehe", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
             {
@@ -915,8 +915,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Perum Korpri",
                 "hobbi": "Belajar",
                 "sosmed": "@roselivnes__",
-                "kesan": "Kakak kerenn sangattt, sukanya sama stylenya",
-                "pesan": "Keren selalu kakk", 
+                "kesan": "Kece abizz",
+                "pesan": "Menangin basketnya ka Vanessss", 
                 "jabatan" : "Staff Divisi Manajemen Minat dan Bakat", # 1
             },
              {
@@ -927,8 +927,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gg. Perwira Belwis",
                 "hobbi": "Nongs",
                 "sosmed": "@allyaislami_",
-                "kesan": "Kakak tegas dan berwibawa",
-                "pesan": "Semangat kuliahnya kak, semoga segala kebaikan menyertai kakak", 
+                "kesan": "Kakak tegas dan perhatian",
+                "pesan": "Stay strong kak", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
              {
@@ -939,20 +939,20 @@ elif menu == "Departemen PSDA":
                 "alamat": "Natar",
                 "hobbi": "Nyari sinyal di gedung F",
                 "sosmed": "@eksantyfebriana",
-                "kesan": "Kakaknya baik dan ramah",
-                "pesan": "Terus memotivasi kami kak, semangat terus", 
+                "kesan": "Kakaknya jenius",
+                "pesan": "semangat kak ngaspraknya", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
              {
                 "nama": "M. Deriansyah Okutra",
-                "nim": "122450051",
+                "nim": "122450101",
                 "umur": "19",
                 "asal": "Kayu Agung",
                 "alamat": "Kedaton",
                 "hobbi": "Nongki - nongki",
                 "sosmed": "@dransyah_",
-                "kesan": "Abangnya humble dan asik",
-                "pesan": "Semangat mengejar akademiknya bang", 
+                "kesan": "akhirnya ada yang sama akamsi",
+                "pesan": "Ayo makan bareng di pu bang", 
                 "jabatan" : "Staff Divisi Kaderisasi", # 1
             },
              {
@@ -975,8 +975,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Korpri Raya",
                 "hobbi": "Belajar, Game, Baca Komik",
                 "sosmed": "@gedemoenaa",
-                "kesan": "Abangnya ramah dan tidakk sombong",
-                "pesan": "Semangat dalam menjalani hari-hari bang", 
+                "kesan": "Abangnya ramah",
+                "pesan": "Semangat kuliahnya bang", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
              {
@@ -1011,8 +1011,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobbi": "Baca",
                 "sosmed": "@syalaisha.i_",
-                "kesan": "Kakaknya pintar dan baik hati",
-                "pesan": "Sukses selalu kak dalam berbagai bidang", 
+                "kesan": "Pernah liat kembarannya",
+                "pesan": "Gimana rasanya kembar kak?", 
                 "jabatan" : "Staff Olahraga dan Perlombaan", # 1
             },
         ]
@@ -1052,8 +1052,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Nangka 4",
                 "hobbi": "Olahraga",
                 "sosmed": "@rafadhilillahh13",
-                "kesan": "Abangnya keren, sangat memotivasi",
-                "pesan": "Jangan lupa semangat bang",
+                "kesan": "Sangat santai dan memotivasi",
+                "pesan": "Terus pantau perkembangan akademik kami bang",
                 "jabatan" : "Kepala Departemen Mikfes", #1
             },
             {
@@ -1112,8 +1112,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg Yudhistira",
                 "hobbi": "Baca Novel",
                 "sosmed": "@dkselsd_31",
-                "kesan": "Keren kakaknya sepertinya aktif sekali di organisasi",
-                "pesan": "Semangat kak semoga akademiknya semakin meningkat", 
+                "kesan": "Wih kembar",
+                "pesan": "Semangat kaka dan kembarannya", 
                 "jabatan" : "Staff Divisi Club dan Komunitas", # 1
             },
             {
@@ -1124,8 +1124,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Kemiling",
                 "hobbi": "Membuka Wisata HMSD",
                 "sosmed": "@natanaeloks",
-                "kesan": "Pintar dan baik hati abangnya",
-                "pesan": "Semoga kesuksesan selalu menyertai abang", 
+                "kesan": "Sangat merangkul",
+                "pesan": "Next time cariin saya partner debat lagi ya bang hehe", 
                 "jabatan" : "Kepala Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
             {
@@ -1136,8 +1136,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "ML (Machine Learning)",
                 "sosmed": "@here.am.ai",
-                "kesan": "Baik dan solutif abangnya",
-                "pesan": "Semangat abang pj materi kelompok kami cosval", 
+                "kesan": "asprakk dan pj tugasku",
+                "pesan": "Semangat ngaspraknya bang, ajarin ya bang hehe", 
                 "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
             {
@@ -1160,8 +1160,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Lapas",
                 "hobbi": "-",
                 "sosmed": "@dindanababan_",
-                "kesan": "Keren kakaknyaa",
-                "pesan": "Semangat menjalani hri-hari kak", 
+                "kesan": "pinter banget kakanya",
+                "pesan": "semangat ngaspraknya kak", 
                 "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
             {
@@ -1172,8 +1172,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg. Nangka 3",
                 "hobbi": "Liatin Jurna",
                 "sosmed": "@marletacornelia",
-                "kesan": "Pinter kak marletta, kenal dari pas TPB jadi tutor matdas TPB 2",
-                "pesan": "Semangat terus kak, semoga akademiknya semakin meningkat", 
+                "kesan": "penutor matdas tpb 2",
+                "pesan": "long time no see kak", 
                 "jabatan" : "Staff Divisi Pusat Inovasi dan Kajian Akademik", # 1
             },
             {
@@ -1220,8 +1220,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "Ngoding dan buat konten WISATA",
                 "sosmed": "@egistr ",
-                "kesan": "-",
-                "pesan": "-",
+                "kesan": "ketemu lagi bang hehe",
+                "pesan": "next time panitia bareng lagi ya bang",
                 "jabatan": "Staff Divisi Survei dan Riset",
             },
             {
@@ -1244,8 +1244,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Karang Anyar",
                 "hobbi": "Main Game",
                 "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": "Baik dan ramah abangnya",
-                "pesan": "Sukses selalu bang", 
+                "kesan": "Baik dan pendiem abangnya",
+                "pesan": "next time panitia bareng lagi ya bang", 
                 "jabatan" : "Staff Divisi Survei dan Riset", # 1
             },
              {
@@ -1300,7 +1300,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jatimulyo",
                 "hobbi": "BAB setiap jam 7 pagi",
                 "sosmed": "@yogyst",
-                "kesan": "Abangnya solutif, selalu menjawa pertanyaan kami dengan baik",
+                "kesan": "Abangnya solutif, selalu menjawab pertanyaan kami dengan baik",
                 "pesan": "Semakin sukses ya bang dalam hal apapun itu",
                 "jabatan" : "Kepala Departemen Eksternal", #1
             },
@@ -1408,8 +1408,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Pemda",
                 "hobbi": "Jogging",
                 "sosmed": "@tobiassiagian",
-                "kesan": "Keren banget bang, aktif sekali dalam berkegiatan",
-                "pesan": "Jangan lupa istirahat bang, semoga semangatnya selalu membara", 
+                "kesan": "abang basket ku",
+                "pesan": "ajarin basket lagi ya bang", 
                 "jabatan" : "Staff Divisi Hubungan Luar", # 1
             },
              {
@@ -1567,8 +1567,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Way Kandis (Kobam)",
                 "hobbi": "menunggu ayam jantan bertelur",
                 "sosmed": "@dimzrky_",
-                "kesan": "Keren banget bang, cara menjawab pertanyaanya bagus banget",
-                "pesan": "Selalu jadi orang yang rendah hati bang walaupun ntar udah sukses",
+                "kesan": "keren pengalaman dan cita-citanya",
+                "pesan": "Selalu naikan nama HMSD bang",
                 "jabatan" : "Kepala Departemen Internal", #1
             },
             {
