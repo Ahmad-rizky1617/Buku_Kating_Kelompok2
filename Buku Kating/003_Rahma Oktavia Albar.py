@@ -1346,10 +1346,10 @@ elif menu == "Departemen SSD":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1a_fc261uHsqyZwx-Xp5kB-hlhdIaT8P0", #bang andrian
             "https://drive.google.com/uc?export=view&id=", #kak adisty
-            "https://drive.google.com/uc?export=view&id=", #kak nabila
-            "https://drive.google.com/uc?export=view&id=", #bang danang
-            "https://drive.google.com/uc?export=view&id=", #bang farel
-            "https://drive.google.com/uc?export=view&id=", #bang ahmad
+            "https://drive.google.com/uc?export=view&id=1aXy_o85H0Wl8WAvI1ZFzDRWWta1j30gx", #kak nabila
+            "https://drive.google.com/uc?export=view&id=1n_CVMGdiLDvB80FfJCsOq9e9JCIG09ux", #bang danang
+            "https://drive.google.com/uc?export=view&id=1nRERqkSTHvMo64OE9F8aHXdM-kAA6T2I", #bang farel
+            "https://drive.google.com/uc?export=view&id=1nBDJo9lu0NPlx6wm2RjasYyvlwEsZnCP", #bang ahmad
             "https://drive.google.com/uc?export=view&id=", #kak tessa
             "https://drive.google.com/uc?export=view&id=", #kak nabilah
             "https://drive.google.com/uc?export=view&id=", #kak elia
@@ -1378,7 +1378,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Nonton Film",
                 "sosmed": "@adistysa_",
                 "kesan": "Kakak ramah orangnya",
-                "pesan": "Semangat kak, semoga lancar kegiatan kuliah dan di SSDnya", 
+                "pesan": "Semangat kakkk", 
                 "jabatan" : "Sekretaris Departemen SSD", # 2
             },
             {
@@ -1389,8 +1389,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Menghitung Uang",
                 "sosmed": "@zhjung",
-                "kesan": "Kece abiezz bener-bener calon pengusaha",
-                "pesan": "Semangat kak kegiatan KWU nya", 
+                "kesan": "Kakaknya keren",
+                "pesan": "Semangat menjalani perkuliahan kak", 
                 "jabatan" : "Kepala Divisi KWU", # 3
             },
             {
@@ -1401,8 +1401,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Touring",
                 "sosmed": "@dananghk_",
-                "kesan": "Abang asyik banget, cocok di KWU",
-                "pesan": "Semangat bang ikut lombanya ", 
+                "kesan": "Abang keren public speakingnya",
+                "pesan": "Jangan lupa istirahat bang", 
                 "jabatan" : "Staff KWU", # 4
             },
             {
@@ -1413,8 +1413,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Lapas",
                 "hobbi": "Bebas",
                 "sosmed": "@farel_julio",
-                "kesan": "Ga espect kalo abang di divisi KWU hehe soalnya jadi kapo suporteran",
-                "pesan": "Jangan berkurang ya bang semangatnya buat KWU ataupun suporteran hehe", 
+                "kesan": "Abangnya keren banget",
+                "pesan": "Selalu semangat dan tetap jadi orang baik bang", 
                 "jabatan" : "Staff KWU", # 5
             },
             {
@@ -1425,8 +1425,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan 1",
                 "hobbi": "Badminton",
                 "sosmed": "@ahmad.ris45",
-                "kesan": "Abang pendiem dan kalem ",
-                "pesan": "Semangat bang kuliahnyaa", 
+                "kesan": "Abangnya humble dan kalem sekali",
+                "pesan": "Semangat bang menjalani perkuliahannya", 
                 "jabatan" : "Staff KWU", # 6
             },
             {
@@ -1477,9 +1477,6 @@ elif menu == "Departemen SSD":
                 "pesan": "Woop semangatt bang kuliahnya", 
                 "jabatan" : "Staff sponsor", # 10
             },
-           
-           
-
         ]
         display_images_with_data(gambar_urls, data_list)
 
