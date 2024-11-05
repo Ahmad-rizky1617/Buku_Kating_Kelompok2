@@ -1754,4 +1754,3 @@ elif menu == "Departemen Internal":
         display_images_with_data(gambar_urls, data_list)
 
     internal()
-# Tambahkan menu lainnya sesuai kebutuhan
